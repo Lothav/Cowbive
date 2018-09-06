@@ -12153,6 +12153,742 @@
         "name": "Zombie-1_walk_000_00044.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00000.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00000.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00002.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00004.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00006.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00006.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00008.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00010.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00012.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00014.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00014.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00016.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00016.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00018.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00018.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00020.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00020.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00022.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00022.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00024.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00024.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00026.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00026.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00028.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00028.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00030.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00030.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00032.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00032.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00034.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00034.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00036.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00036.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00038.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00038.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00040.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00040.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00042.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00042.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_225/Zombie-1_walk_225_00044.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_225_00044.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00000.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00000.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00002.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00004.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00006.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00006.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00008.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00010.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00012.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00014.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00014.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00016.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00016.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00018.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00018.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00020.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00020.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00022.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00022.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00024.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00024.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00026.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00026.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00028.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00028.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00030.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00030.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00032.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00032.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00034.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00034.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00036.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00036.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00038.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00038.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00040.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00040.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00042.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00042.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_135/Zombie-1_walk_135_00044.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_135_00044.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00000.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00000.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00002.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00004.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00006.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00006.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00008.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00010.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00012.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00014.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00014.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00016.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00016.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00018.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00018.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00020.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00020.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00022.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00022.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00024.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00024.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00026.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00026.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00028.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00028.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00030.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00030.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00032.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00032.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00034.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00034.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00036.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00036.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00038.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00038.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00040.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00040.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00042.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00042.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_045/Zombie-1_walk_045_00044.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_045_00044.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00000.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00000.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00002.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00004.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00006.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00006.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00008.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00010.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00012.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00014.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00014.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00016.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00016.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00018.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00018.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00020.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00020.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00022.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00022.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00024.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00024.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00026.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00026.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00028.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00028.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00030.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00030.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00032.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00032.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00034.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00034.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00036.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00036.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00038.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00038.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00040.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00040.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00042.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00042.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_walk/Zombie-1_walk_315/Zombie-1_walk_315_00044.png",
+        "kind": "image",
+        "name": "Zombie-1_walk_315_00044.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -12226,7 +12962,7 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "NewObject",
+          "name": "DebugText",
           "width": 0,
           "x": 411,
           "y": 179,
@@ -31643,19 +32379,1631 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.05,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00000.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00002.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00004.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00006.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00008.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00010.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00012.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00014.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00016.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00018.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00020.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00022.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00024.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00026.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00028.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00030.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00032.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00034.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00036.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00038.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00040.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00042.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_225_00044.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.05,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00000.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00002.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00004.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00006.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00008.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00010.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00012.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00014.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00016.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00018.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00020.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00022.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00024.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00026.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00028.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00030.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00032.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00034.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00036.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00038.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00040.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00042.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_135_00044.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.05,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00000.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00002.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00004.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00006.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00008.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00010.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00012.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00014.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00016.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00018.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00020.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00022.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00024.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00026.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00028.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00030.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00032.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00034.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00036.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00038.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00040.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00042.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_045_00044.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.05,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00000.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00002.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00004.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00006.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00008.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00010.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00012.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00014.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00016.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00018.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00020.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00022.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00024.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00026.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00028.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00030.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00032.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00034.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00036.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00038.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00040.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00042.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_walk_315_00044.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
           "bold": false,
           "italic": false,
-          "name": "NewObject",
+          "name": "DebugText",
           "smoothed": true,
           "type": "TextObject::Text",
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "AAAAA",
+          "string": "Debug",
           "font": "",
           "characterSize": 20,
           "color": {
@@ -31691,7 +34039,7 @@
                 "value": "TextObject::String"
               },
               "parameters": [
-                "NewObject",
+                "DebugText",
                 "=",
                 "ToString(Zombie.ForceAngle())"
               ],
@@ -32371,41 +34719,7 @@
                   },
                   "parameters": [
                     "Zombie",
-                    "-180",
-                    "20"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "ChangeAnimation"
-                  },
-                  "parameters": [
-                    "Zombie",
-                    "=",
-                    "9"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "AngleOfDisplacement"
-                  },
-                  "parameters": [
-                    "Zombie",
-                    "-90",
+                    "270",
                     "20"
                   ],
                   "subInstructions": []
@@ -32473,7 +34787,41 @@
                   },
                   "parameters": [
                     "Zombie",
-                    "45",
+                    "360",
+                    "20"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeAnimation"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "=",
+                    "11"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "AngleOfDisplacement"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "135",
                     "20"
                   ],
                   "subInstructions": []
@@ -32507,7 +34855,7 @@
                   },
                   "parameters": [
                     "Zombie",
-                    "-135",
+                    "225",
                     "20"
                   ],
                   "subInstructions": []
@@ -32541,7 +34889,7 @@
                   },
                   "parameters": [
                     "Zombie",
-                    "-45",
+                    "315",
                     "20"
                   ],
                   "subInstructions": []
@@ -32575,7 +34923,7 @@
                   },
                   "parameters": [
                     "Zombie",
-                    "135",
+                    "45",
                     "20"
                   ],
                   "subInstructions": []
