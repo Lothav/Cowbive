@@ -1,0 +1,2644 @@
+fileFormatVersion: 2
+guid: c1069fde16d512845b4c83cd3e7f5a0f
+timeCreated: 1484908702
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Zombie-1_walk_000_00000
+    21300002: Zombie-1_walk_000_00002
+    21300004: Zombie-1_walk_000_00004
+    21300006: Zombie-1_walk_000_00006
+    21300008: Zombie-1_walk_000_00008
+    21300010: Zombie-1_walk_000_00010
+    21300012: Zombie-1_walk_000_00012
+    21300014: Zombie-1_walk_000_00014
+    21300016: Zombie-1_walk_000_00016
+    21300018: Zombie-1_walk_000_00018
+    21300020: Zombie-1_walk_000_00020
+    21300022: Zombie-1_walk_000_00022
+    21300024: Zombie-1_walk_000_00024
+    21300026: Zombie-1_walk_000_00026
+    21300028: Zombie-1_walk_000_00028
+    21300030: Zombie-1_walk_000_00030
+    21300032: Zombie-1_walk_000_00032
+    21300034: Zombie-1_walk_000_00034
+    21300036: Zombie-1_walk_000_00036
+    21300038: Zombie-1_walk_000_00038
+    21300040: Zombie-1_walk_000_00040
+    21300042: Zombie-1_walk_000_00042
+    21300044: Zombie-1_walk_000_00044
+    21300046: Zombie-1_walk_045_00000
+    21300048: Zombie-1_walk_045_00002
+    21300050: Zombie-1_walk_045_00004
+    21300052: Zombie-1_walk_045_00006
+    21300054: Zombie-1_walk_045_00008
+    21300056: Zombie-1_walk_045_00010
+    21300058: Zombie-1_walk_045_00012
+    21300060: Zombie-1_walk_045_00014
+    21300062: Zombie-1_walk_045_00016
+    21300064: Zombie-1_walk_045_00018
+    21300066: Zombie-1_walk_045_00020
+    21300068: Zombie-1_walk_045_00022
+    21300070: Zombie-1_walk_045_00024
+    21300072: Zombie-1_walk_045_00026
+    21300074: Zombie-1_walk_045_00028
+    21300076: Zombie-1_walk_045_00030
+    21300078: Zombie-1_walk_045_00032
+    21300080: Zombie-1_walk_045_00034
+    21300082: Zombie-1_walk_045_00036
+    21300084: Zombie-1_walk_045_00038
+    21300086: Zombie-1_walk_045_00040
+    21300088: Zombie-1_walk_045_00042
+    21300090: Zombie-1_walk_045_00044
+    21300092: Zombie-1_walk_090_00000
+    21300094: Zombie-1_walk_090_00002
+    21300096: Zombie-1_walk_090_00004
+    21300098: Zombie-1_walk_090_00006
+    21300100: Zombie-1_walk_090_00008
+    21300102: Zombie-1_walk_090_00010
+    21300104: Zombie-1_walk_090_00012
+    21300106: Zombie-1_walk_090_00014
+    21300108: Zombie-1_walk_090_00016
+    21300110: Zombie-1_walk_090_00018
+    21300112: Zombie-1_walk_090_00020
+    21300114: Zombie-1_walk_090_00022
+    21300116: Zombie-1_walk_090_00024
+    21300118: Zombie-1_walk_090_00026
+    21300120: Zombie-1_walk_090_00028
+    21300122: Zombie-1_walk_090_00030
+    21300124: Zombie-1_walk_090_00032
+    21300126: Zombie-1_walk_090_00034
+    21300128: Zombie-1_walk_090_00036
+    21300130: Zombie-1_walk_090_00038
+    21300132: Zombie-1_walk_090_00040
+    21300134: Zombie-1_walk_090_00042
+    21300136: Zombie-1_walk_090_00044
+    21300138: Zombie-1_walk_135_00000
+    21300140: Zombie-1_walk_135_00002
+    21300142: Zombie-1_walk_135_00004
+    21300144: Zombie-1_walk_135_00006
+    21300146: Zombie-1_walk_135_00008
+    21300148: Zombie-1_walk_135_00010
+    21300150: Zombie-1_walk_135_00012
+    21300152: Zombie-1_walk_135_00014
+    21300154: Zombie-1_walk_135_00016
+    21300156: Zombie-1_walk_135_00018
+    21300158: Zombie-1_walk_135_00020
+    21300160: Zombie-1_walk_135_00022
+    21300162: Zombie-1_walk_135_00024
+    21300164: Zombie-1_walk_135_00026
+    21300166: Zombie-1_walk_135_00028
+    21300168: Zombie-1_walk_135_00030
+    21300170: Zombie-1_walk_135_00032
+    21300172: Zombie-1_walk_135_00034
+    21300174: Zombie-1_walk_135_00036
+    21300176: Zombie-1_walk_135_00038
+    21300178: Zombie-1_walk_135_00040
+    21300180: Zombie-1_walk_135_00042
+    21300182: Zombie-1_walk_135_00044
+    21300184: Zombie-1_walk_180_00000
+    21300186: Zombie-1_walk_180_00002
+    21300188: Zombie-1_walk_180_00004
+    21300190: Zombie-1_walk_180_00006
+    21300192: Zombie-1_walk_180_00008
+    21300194: Zombie-1_walk_180_00010
+    21300196: Zombie-1_walk_180_00012
+    21300198: Zombie-1_walk_180_00014
+    21300200: Zombie-1_walk_180_00016
+    21300202: Zombie-1_walk_180_00018
+    21300204: Zombie-1_walk_180_00020
+    21300206: Zombie-1_walk_180_00022
+    21300208: Zombie-1_walk_180_00024
+    21300210: Zombie-1_walk_180_00026
+    21300212: Zombie-1_walk_180_00028
+    21300214: Zombie-1_walk_180_00030
+    21300216: Zombie-1_walk_180_00032
+    21300218: Zombie-1_walk_180_00034
+    21300220: Zombie-1_walk_180_00036
+    21300222: Zombie-1_walk_180_00038
+    21300224: Zombie-1_walk_180_00040
+    21300226: Zombie-1_walk_180_00042
+    21300228: Zombie-1_walk_180_00044
+    21300230: Zombie-1_walk_225_00000
+    21300232: Zombie-1_walk_225_00002
+    21300234: Zombie-1_walk_225_00004
+    21300236: Zombie-1_walk_225_00006
+    21300238: Zombie-1_walk_225_00008
+    21300240: Zombie-1_walk_225_00010
+    21300242: Zombie-1_walk_225_00012
+    21300244: Zombie-1_walk_225_00014
+    21300246: Zombie-1_walk_225_00016
+    21300248: Zombie-1_walk_225_00018
+    21300250: Zombie-1_walk_225_00020
+    21300252: Zombie-1_walk_225_00022
+    21300254: Zombie-1_walk_225_00024
+    21300256: Zombie-1_walk_225_00026
+    21300258: Zombie-1_walk_225_00028
+    21300260: Zombie-1_walk_225_00030
+    21300262: Zombie-1_walk_225_00032
+    21300264: Zombie-1_walk_225_00034
+    21300266: Zombie-1_walk_225_00036
+    21300268: Zombie-1_walk_225_00038
+    21300270: Zombie-1_walk_225_00040
+    21300272: Zombie-1_walk_225_00042
+    21300274: Zombie-1_walk_225_00044
+    21300276: Zombie-1_walk_270_00000
+    21300278: Zombie-1_walk_270_00002
+    21300280: Zombie-1_walk_270_00004
+    21300282: Zombie-1_walk_270_00006
+    21300284: Zombie-1_walk_270_00008
+    21300286: Zombie-1_walk_270_00010
+    21300288: Zombie-1_walk_270_00012
+    21300290: Zombie-1_walk_270_00014
+    21300292: Zombie-1_walk_270_00016
+    21300294: Zombie-1_walk_270_00018
+    21300296: Zombie-1_walk_270_00020
+    21300298: Zombie-1_walk_270_00022
+    21300300: Zombie-1_walk_270_00024
+    21300302: Zombie-1_walk_270_00026
+    21300304: Zombie-1_walk_270_00028
+    21300306: Zombie-1_walk_270_00030
+    21300308: Zombie-1_walk_270_00032
+    21300310: Zombie-1_walk_270_00034
+    21300312: Zombie-1_walk_270_00036
+    21300314: Zombie-1_walk_270_00038
+    21300316: Zombie-1_walk_270_00040
+    21300318: Zombie-1_walk_270_00042
+    21300320: Zombie-1_walk_270_00044
+    21300322: Zombie-1_walk_315_00000
+    21300324: Zombie-1_walk_315_00002
+    21300326: Zombie-1_walk_315_00004
+    21300328: Zombie-1_walk_315_00006
+    21300330: Zombie-1_walk_315_00008
+    21300332: Zombie-1_walk_315_00010
+    21300334: Zombie-1_walk_315_00012
+    21300336: Zombie-1_walk_315_00014
+    21300338: Zombie-1_walk_315_00016
+    21300340: Zombie-1_walk_315_00018
+    21300342: Zombie-1_walk_315_00020
+    21300344: Zombie-1_walk_315_00022
+    21300346: Zombie-1_walk_315_00024
+    21300348: Zombie-1_walk_315_00026
+    21300350: Zombie-1_walk_315_00028
+    21300352: Zombie-1_walk_315_00030
+    21300354: Zombie-1_walk_315_00032
+    21300356: Zombie-1_walk_315_00034
+    21300358: Zombie-1_walk_315_00036
+    21300360: Zombie-1_walk_315_00038
+    21300362: Zombie-1_walk_315_00040
+    21300364: Zombie-1_walk_315_00042
+    21300366: Zombie-1_walk_315_00044
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00000
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1439
+        width: 77
+        height: 132
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0.6287879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00002
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1747
+        width: 79
+        height: 131
+      alignment: 9
+      pivot: {x: 0.37974682, y: 0.6335878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00004
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1751
+        width: 79
+        height: 129
+      alignment: 9
+      pivot: {x: 0.4050633, y: 0.64341086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00006
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1751
+        width: 81
+        height: 129
+      alignment: 9
+      pivot: {x: 0.45679012, y: 0.64341086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00008
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 1131
+        width: 84
+        height: 128
+      alignment: 9
+      pivot: {x: 0.45238096, y: 0.6484375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00010
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1749
+        width: 86
+        height: 127
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.6535433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00012
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 826
+        width: 83
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5421687, y: 0.6535433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00014
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 675
+        width: 83
+        height: 127
+      alignment: 9
+      pivot: {x: 0.56626505, y: 0.6535433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00016
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1904
+        width: 82
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00018
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1597
+        width: 80
+        height: 130
+      alignment: 9
+      pivot: {x: 0.55, y: 0.65384614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00020
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1285
+        width: 78
+        height: 130
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.65384614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00022
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1441
+        width: 77
+        height: 130
+      alignment: 9
+      pivot: {x: 0.53246754, y: 0.65384614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00024
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1902
+        width: 80
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65384614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00026
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1283
+        width: 83
+        height: 130
+      alignment: 9
+      pivot: {x: 0.48192772, y: 0.65384614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00028
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 170
+        width: 94
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0.65384614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00030
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 773
+        width: 100
+        height: 128
+      alignment: 9
+      pivot: {x: 0.52, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00032
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1695
+        width: 105
+        height: 128
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00034
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 243
+        width: 105
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.6535433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00036
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 583
+        width: 104
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.6484375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00038
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 394
+        width: 104
+        height: 129
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.64341086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00040
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 89
+        width: 102
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5392157, y: 0.63846153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00042
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 88
+        width: 101
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5346535, y: 0.6335878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_000_00044
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 962
+        width: 88
+        height: 132
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.6287879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00000
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 732
+        width: 103
+        height: 132
+      alignment: 9
+      pivot: {x: 0.39805827, y: 0.6287879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00002
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1045
+        width: 108
+        height: 134
+      alignment: 9
+      pivot: {x: 0.39814815, y: 0.63432837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00004
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1201
+        width: 111
+        height: 137
+      alignment: 9
+      pivot: {x: 0.3963964, y: 0.63503647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00006
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 22
+        width: 114
+        height: 140
+      alignment: 9
+      pivot: {x: 0.39473686, y: 0.64285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00008
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 415
+        width: 112
+        height: 140
+      alignment: 9
+      pivot: {x: 0.39285713, y: 0.64285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00010
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 416
+        width: 111
+        height: 140
+      alignment: 9
+      pivot: {x: 0.4054054, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00012
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1354
+        width: 110
+        height: 141
+      alignment: 9
+      pivot: {x: 0.42727274, y: 0.6524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00014
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 259
+        width: 106
+        height: 142
+      alignment: 9
+      pivot: {x: 0.4528302, y: 0.6549296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00016
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 711
+        width: 99
+        height: 142
+      alignment: 9
+      pivot: {x: 0.46464646, y: 0.6549296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00018
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 185
+        width: 94
+        height: 142
+      alignment: 9
+      pivot: {x: 0.4680851, y: 0.64788735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00020
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 19
+        width: 94
+        height: 142
+      alignment: 9
+      pivot: {x: 0.4680851, y: 0.64788735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00022
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1088
+        width: 88
+        height: 145
+      alignment: 9
+      pivot: {x: 0.4318182, y: 0.6551724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00024
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1048
+        width: 93
+        height: 148
+      alignment: 9
+      pivot: {x: 0.4623656, y: 0.6621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00026
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 425
+        width: 101
+        height: 151
+      alignment: 9
+      pivot: {x: 0.46534654, y: 0.66887414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00028
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 396
+        width: 109
+        height: 156
+      alignment: 9
+      pivot: {x: 0.4587156, y: 0.67948717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00030
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1322
+        width: 115
+        height: 157
+      alignment: 9
+      pivot: {x: 0.45217392, y: 0.6878981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00032
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 924
+        width: 121
+        height: 159
+      alignment: 9
+      pivot: {x: 0.446281, y: 0.6918239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00034
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1682
+        width: 125
+        height: 159
+      alignment: 9
+      pivot: {x: 0.448, y: 0.6918239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00036
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1297
+        width: 125
+        height: 160
+      alignment: 9
+      pivot: {x: 0.456, y: 0.69375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00038
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1488
+        width: 125
+        height: 160
+      alignment: 9
+      pivot: {x: 0.456, y: 0.69375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00040
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1304
+        width: 120
+        height: 160
+      alignment: 9
+      pivot: {x: 0.44166666, y: 0.69375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00042
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 553
+        width: 119
+        height: 160
+      alignment: 9
+      pivot: {x: 0.44537815, y: 0.6875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_045_00044
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 404
+        width: 107
+        height: 151
+      alignment: 9
+      pivot: {x: 0.41121495, y: 0.66887414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00000
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 138
+        width: 93
+        height: 148
+      alignment: 9
+      pivot: {x: 0.4623656, y: 0.6689189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00002
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 310
+        width: 93
+        height: 152
+      alignment: 9
+      pivot: {x: 0.47311828, y: 0.67105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00004
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1709
+        width: 95
+        height: 158
+      alignment: 9
+      pivot: {x: 0.4631579, y: 0.6708861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00006
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 16
+        width: 98
+        height: 164
+      alignment: 9
+      pivot: {x: 0.4387755, y: 0.6768293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00008
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 768
+        width: 101
+        height: 165
+      alignment: 9
+      pivot: {x: 0.42574257, y: 0.6787879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00010
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 204
+        width: 103
+        height: 168
+      alignment: 9
+      pivot: {x: 0.41747573, y: 0.6904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00012
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 579
+        width: 101
+        height: 165
+      alignment: 9
+      pivot: {x: 0.42574257, y: 0.6848485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00014
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 213
+        width: 99
+        height: 167
+      alignment: 9
+      pivot: {x: 0.46464646, y: 0.6886228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00016
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 224
+        width: 95
+        height: 168
+      alignment: 9
+      pivot: {x: 0.50526315, y: 0.6845238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00018
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 224
+        width: 96
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5104167, y: 0.6826347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00020
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 580
+        width: 96
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5104167, y: 0.6807229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00022
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1203
+        width: 95
+        height: 155
+      alignment: 9
+      pivot: {x: 0.50526315, y: 0.6516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00024
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 838
+        width: 92
+        height: 162
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00026
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1698
+        width: 90
+        height: 169
+      alignment: 9
+      pivot: {x: 0.47777778, y: 0.6804734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00028
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 770
+        width: 90
+        height: 177
+      alignment: 9
+      pivot: {x: 0.47777778, y: 0.700565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00030
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 16
+        width: 90
+        height: 184
+      alignment: 9
+      pivot: {x: 0.47777778, y: 0.7119565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00032
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 600
+        width: 92
+        height: 186
+      alignment: 9
+      pivot: {x: 0.4673913, y: 0.72043014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00034
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1847
+        width: 94
+        height: 185
+      alignment: 9
+      pivot: {x: 0.4574468, y: 0.7189189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00036
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1847
+        width: 94
+        height: 185
+      alignment: 9
+      pivot: {x: 0.4574468, y: 0.7189189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00038
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 179
+        width: 94
+        height: 185
+      alignment: 9
+      pivot: {x: 0.4574468, y: 0.7189189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00040
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 181
+        width: 95
+        height: 183
+      alignment: 9
+      pivot: {x: 0.4526316, y: 0.72131145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00042
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 186
+        width: 95
+        height: 182
+      alignment: 9
+      pivot: {x: 0.4526316, y: 0.7197802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_090_00044
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 20
+        width: 95
+        height: 169
+      alignment: 9
+      pivot: {x: 0.4526316, y: 0.71005917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00000
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 817
+        width: 98
+        height: 155
+      alignment: 9
+      pivot: {x: 0.52040815, y: 0.683871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00002
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 975
+        width: 98
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6772152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00004
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 40
+        width: 98
+        height: 160
+      alignment: 9
+      pivot: {x: 0.47959185, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00006
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 971
+        width: 99
+        height: 162
+      alignment: 9
+      pivot: {x: 0.47474748, y: 0.6728395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00008
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 579
+        width: 100
+        height: 160
+      alignment: 9
+      pivot: {x: 0.47, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00010
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 579
+        width: 103
+        height: 160
+      alignment: 9
+      pivot: {x: 0.46601942, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00012
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 392
+        width: 108
+        height: 160
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00014
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1684
+        width: 112
+        height: 162
+      alignment: 9
+      pivot: {x: 0.45535713, y: 0.67901236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00016
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1683
+        width: 115
+        height: 159
+      alignment: 9
+      pivot: {x: 0.49565217, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00018
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1121
+        width: 116
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5258621, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00020
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 927
+        width: 118
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5508475, y: 0.664557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00022
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1503
+        width: 119
+        height: 155
+      alignment: 9
+      pivot: {x: 0.56302524, y: 0.65806454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00024
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 741
+        width: 119
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00026
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 737
+        width: 117
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5811966, y: 0.67484665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00028
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1107
+        width: 117
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5641026, y: 0.6807229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00030
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1481
+        width: 120
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.6826347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00032
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1672
+        width: 121
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5289256, y: 0.6886228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00034
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1865
+        width: 121
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5123967, y: 0.6886228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00036
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1863
+        width: 120
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00038
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1866
+        width: 119
+        height: 166
+      alignment: 9
+      pivot: {x: 0.49579832, y: 0.686747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00040
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1109
+        width: 117
+        height: 164
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.6890244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00042
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1870
+        width: 113
+        height: 162
+      alignment: 9
+      pivot: {x: 0.48672566, y: 0.69135803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_135_00044
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1162
+        width: 101
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5247525, y: 0.6797386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00000
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1726
+        width: 104
+        height: 141
+      alignment: 9
+      pivot: {x: 0.625, y: 0.6524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00002
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1543
+        width: 104
+        height: 142
+      alignment: 9
+      pivot: {x: 0.625, y: 0.64788735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00004
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1034
+        width: 104
+        height: 143
+      alignment: 9
+      pivot: {x: 0.625, y: 0.6433566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00006
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 651
+        width: 106
+        height: 142
+      alignment: 9
+      pivot: {x: 0.6132075, y: 0.64788735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00008
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1891
+        width: 107
+        height: 141
+      alignment: 9
+      pivot: {x: 0.60747665, y: 0.6524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00010
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1891
+        width: 108
+        height: 141
+      alignment: 9
+      pivot: {x: 0.6018519, y: 0.6524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00012
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1189
+        width: 109
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5963303, y: 0.6524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00014
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1527
+        width: 110
+        height: 141
+      alignment: 9
+      pivot: {x: 0.59090906, y: 0.6524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00016
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1891
+        width: 110
+        height: 141
+      alignment: 9
+      pivot: {x: 0.59090906, y: 0.6524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00018
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 810
+        width: 110
+        height: 141
+      alignment: 9
+      pivot: {x: 0.59090906, y: 0.6524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00020
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1024
+        width: 108
+        height: 141
+      alignment: 9
+      pivot: {x: 0.6018519, y: 0.6524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00022
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 486
+        width: 104
+        height: 141
+      alignment: 9
+      pivot: {x: 0.625, y: 0.6524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00024
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 673
+        width: 104
+        height: 141
+      alignment: 9
+      pivot: {x: 0.625, y: 0.6524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00026
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 996
+        width: 109
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5963303, y: 0.64788735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00028
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 16
+        width: 119
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5462185, y: 0.6524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00030
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1519
+        width: 125
+        height: 141
+      alignment: 9
+      pivot: {x: 0.536, y: 0.6524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00032
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 763
+        width: 127
+        height: 140
+      alignment: 9
+      pivot: {x: 0.52755904, y: 0.6571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00034
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1339
+        width: 126
+        height: 140
+      alignment: 9
+      pivot: {x: 0.515873, y: 0.6571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00036
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 957
+        width: 127
+        height: 140
+      alignment: 9
+      pivot: {x: 0.511811, y: 0.6571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00038
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 388
+        width: 127
+        height: 141
+      alignment: 9
+      pivot: {x: 0.511811, y: 0.6524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00040
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 576
+        width: 127
+        height: 141
+      alignment: 9
+      pivot: {x: 0.511811, y: 0.6524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00042
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1157
+        width: 126
+        height: 141
+      alignment: 9
+      pivot: {x: 0.515873, y: 0.6524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_180_00044
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1362
+        width: 109
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5963303, y: 0.6524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00000
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 103
+        width: 98
+        height: 134
+      alignment: 9
+      pivot: {x: 0.7244898, y: 0.63432837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00002
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 416
+        width: 100
+        height: 133
+      alignment: 9
+      pivot: {x: 0.73, y: 0.63909775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00004
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 888
+        width: 103
+        height: 133
+      alignment: 9
+      pivot: {x: 0.7281553, y: 0.63909775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00006
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 351
+        width: 103
+        height: 133
+      alignment: 9
+      pivot: {x: 0.7184466, y: 0.63909775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00008
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 735
+        width: 101
+        height: 132
+      alignment: 9
+      pivot: {x: 0.7128713, y: 0.6439394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00010
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 261
+        width: 101
+        height: 131
+      alignment: 9
+      pivot: {x: 0.6930693, y: 0.648855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00012
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1416
+        width: 98
+        height: 131
+      alignment: 9
+      pivot: {x: 0.67346936, y: 0.648855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00014
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 633
+        width: 96
+        height: 132
+      alignment: 9
+      pivot: {x: 0.65625, y: 0.6439394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00016
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1747
+        width: 89
+        height: 132
+      alignment: 9
+      pivot: {x: 0.6516854, y: 0.6439394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00018
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1900
+        width: 86
+        height: 132
+      alignment: 9
+      pivot: {x: 0.6511628, y: 0.6439394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00020
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1593
+        width: 85
+        height: 132
+      alignment: 9
+      pivot: {x: 0.65882355, y: 0.6439394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00022
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1437
+        width: 83
+        height: 132
+      alignment: 9
+      pivot: {x: 0.67469877, y: 0.6439394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00024
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1280
+        width: 84
+        height: 132
+      alignment: 9
+      pivot: {x: 0.6785714, y: 0.6439394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00026
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1745
+        width: 93
+        height: 131
+      alignment: 9
+      pivot: {x: 0.65591395, y: 0.648855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00028
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 891
+        width: 101
+        height: 133
+      alignment: 9
+      pivot: {x: 0.65346533, y: 0.65413535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00030
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 877
+        width: 109
+        height: 133
+      alignment: 9
+      pivot: {x: 0.6513761, y: 0.6616541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00032
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1382
+        width: 115
+        height: 132
+      alignment: 9
+      pivot: {x: 0.65217394, y: 0.67424244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00034
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 118
+        height: 131
+      alignment: 9
+      pivot: {x: 0.6440678, y: 0.6793893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00036
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1692
+        width: 119
+        height: 131
+      alignment: 9
+      pivot: {x: 0.6386555, y: 0.67175573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00038
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1538
+        width: 115
+        height: 133
+      alignment: 9
+      pivot: {x: 0.65217394, y: 0.6616541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00040
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1541
+        width: 113
+        height: 133
+      alignment: 9
+      pivot: {x: 0.65486723, y: 0.65413535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00042
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1385
+        width: 111
+        height: 132
+      alignment: 9
+      pivot: {x: 0.6576577, y: 0.6439394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_225_00044
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 426
+        width: 99
+        height: 133
+      alignment: 9
+      pivot: {x: 0.72727275, y: 0.63909775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00000
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1588
+        width: 89
+        height: 135
+      alignment: 9
+      pivot: {x: 0.56179774, y: 0.63703704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00002
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 957
+        width: 92
+        height: 134
+      alignment: 9
+      pivot: {x: 0.57608694, y: 0.64179105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00004
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 616
+        width: 96
+        height: 133
+      alignment: 9
+      pivot: {x: 0.59375, y: 0.6466165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00006
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 573
+        width: 99
+        height: 135
+      alignment: 9
+      pivot: {x: 0.61616164, y: 0.65925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00008
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1220
+        width: 101
+        height: 141
+      alignment: 9
+      pivot: {x: 0.63366336, y: 0.68085104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00010
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 94
+        width: 101
+        height: 141
+      alignment: 9
+      pivot: {x: 0.64356434, y: 0.6879433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00012
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 508
+        width: 100
+        height: 141
+      alignment: 9
+      pivot: {x: 0.62, y: 0.6879433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00014
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 547
+        width: 97
+        height: 140
+      alignment: 9
+      pivot: {x: 0.58762884, y: 0.6785714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00016
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1411
+        width: 95
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5368421, y: 0.6691176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00018
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 268
+        width: 97
+        height: 134
+      alignment: 9
+      pivot: {x: 0.52577317, y: 0.6567164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00020
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1260
+        width: 97
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5154639, y: 0.6515151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00022
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 477
+        width: 96
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0.6515151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00024
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1900
+        width: 95
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.6515151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00026
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1268
+        width: 93
+        height: 133
+      alignment: 9
+      pivot: {x: 0.53763443, y: 0.65413535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00028
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 481
+        width: 90
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.6691176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00030
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 641
+        width: 89
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5730337, y: 0.68115944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00032
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1739
+        width: 91
+        height: 137
+      alignment: 9
+      pivot: {x: 0.6043956, y: 0.68613136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00034
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 293
+        width: 92
+        height: 138
+      alignment: 9
+      pivot: {x: 0.6195652, y: 0.6884058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00036
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1098
+        width: 92
+        height: 138
+      alignment: 9
+      pivot: {x: 0.6195652, y: 0.68115944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00038
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 925
+        width: 92
+        height: 139
+      alignment: 9
+      pivot: {x: 0.6195652, y: 0.676259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00040
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 455
+        width: 93
+        height: 137
+      alignment: 9
+      pivot: {x: 0.61290324, y: 0.66423357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00042
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1425
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.59782606, y: 0.65185183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_270_00044
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1586
+        width: 90
+        height: 135
+      alignment: 9
+      pivot: {x: 0.56666666, y: 0.63703704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00000
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1270
+        width: 86
+        height: 135
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.63703704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00002
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1436
+        width: 84
+        height: 133
+      alignment: 9
+      pivot: {x: 0.54761904, y: 0.6466165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00004
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1128
+        width: 82
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5731707, y: 0.65648854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00006
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 977
+        width: 81
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5802469, y: 0.6615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00008
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1595
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5875, y: 0.671875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00010
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1904
+        width: 81
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5925926, y: 0.671875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00012
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1904
+        width: 86
+        height: 128
+      alignment: 9
+      pivot: {x: 0.59302324, y: 0.671875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00014
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1118
+        width: 91
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.671875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00016
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1903
+        width: 92
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5326087, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00018
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 16
+        width: 93
+        height: 130
+      alignment: 9
+      pivot: {x: 0.49462366, y: 0.6615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00020
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 169
+        width: 96
+        height: 131
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.65648854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00022
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 789
+        width: 97
+        height: 131
+      alignment: 9
+      pivot: {x: 0.45360824, y: 0.65648854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00024
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 113
+        width: 99
+        height: 131
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.65648854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00026
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1571
+        width: 99
+        height: 131
+      alignment: 9
+      pivot: {x: 0.43434343, y: 0.65648854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00028
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 944
+        width: 98
+        height: 130
+      alignment: 9
+      pivot: {x: 0.4387755, y: 0.6615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00030
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1257
+        width: 99
+        height: 130
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.6615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00032
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 324
+        width: 98
+        height: 129
+      alignment: 9
+      pivot: {x: 0.4489796, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00034
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 16
+        width: 97
+        height: 129
+      alignment: 9
+      pivot: {x: 0.46391752, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00036
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1115
+        width: 96
+        height: 129
+      alignment: 9
+      pivot: {x: 0.48958334, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00038
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 803
+        width: 95
+        height: 130
+      alignment: 9
+      pivot: {x: 0.50526315, y: 0.6615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00040
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1584
+        width: 95
+        height: 131
+      alignment: 9
+      pivot: {x: 0.51578945, y: 0.65648854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00042
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 324
+        width: 92
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.6466165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_walk_315_00044
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1429
+        width: 88
+        height: 135
+      alignment: 9
+      pivot: {x: 0.53409094, y: 0.63703704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

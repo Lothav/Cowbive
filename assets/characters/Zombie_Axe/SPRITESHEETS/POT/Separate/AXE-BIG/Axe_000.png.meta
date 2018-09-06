@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 9a0ea084127680b4fa11d9ad43f25694
+timeCreated: 1485180273
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Axe_000_0000
+    21300002: Axe_000_0001
+    21300004: Axe_000_0002
+    21300006: Axe_000_0003
+    21300008: Axe_000_0004
+    21300010: Axe_000_0005
+    21300012: Axe_000_0006
+    21300014: Axe_000_0007
+    21300016: Axe_000_0008
+    21300018: Axe_000_0009
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Axe_000_0000
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 261
+        width: 146
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5205479, y: 0.09375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Axe_000_0001
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 424
+        width: 127
+        height: 84
+      alignment: 9
+      pivot: {x: 0.54330707, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Axe_000_0002
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 24
+        width: 61
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5409836, y: 0.2735043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Axe_000_0003
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 147
+        width: 79
+        height: 108
+      alignment: 9
+      pivot: {x: 0.6455696, y: 0.28703704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Axe_000_0004
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 60
+        width: 147
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5986394, y: 0.22666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Axe_000_0005
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 383
+        width: 150
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5466667, y: -0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Axe_000_0006
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 141
+        width: 123
+        height: 96
+      alignment: 9
+      pivot: {x: 0.58536583, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Axe_000_0007
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 377
+        width: 66
+        height: 131
+      alignment: 9
+      pivot: {x: 0.57575756, y: 0.34351146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Axe_000_0008
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 243
+        width: 79
+        height: 128
+      alignment: 9
+      pivot: {x: 0.32911393, y: 0.3671875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Axe_000_0009
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 299
+        width: 136
+        height: 78
+      alignment: 9
+      pivot: {x: 0.44117647, y: 0.24358974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

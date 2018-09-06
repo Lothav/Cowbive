@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: 7a0cc082be34b324a8b2326b07f31fde
+timeCreated: 1484920015
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Zombie-1_stand_and_hit_180_00000
+    21300002: Zombie-1_stand_and_hit_180_00002
+    21300004: Zombie-1_stand_and_hit_180_00004
+    21300006: Zombie-1_stand_and_hit_180_00006
+    21300008: Zombie-1_stand_and_hit_180_00008
+    21300010: Zombie-1_stand_and_hit_180_00010
+    21300012: Zombie-1_stand_and_hit_180_00012
+    21300014: Zombie-1_stand_and_hit_180_00014
+    21300016: Zombie-1_stand_and_hit_180_00016
+    21300018: Zombie-1_stand_and_hit_180_00018
+    21300020: Zombie-1_stand_and_hit_180_00020
+    21300022: Zombie-1_stand_and_hit_180_00022
+    21300024: Zombie-1_stand_and_hit_180_00024
+    21300026: Zombie-1_stand_and_hit_180_00026
+    21300028: Zombie-1_stand_and_hit_180_00028
+    21300030: Zombie-1_stand_and_hit_180_00030
+    21300032: Zombie-1_stand_and_hit_180_00032
+    21300034: Zombie-1_stand_and_hit_180_00034
+    21300036: Zombie-1_stand_and_hit_180_00036
+    21300038: Zombie-1_stand_and_hit_180_00038
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_hit_180_00000
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 876
+        width: 69
+        height: 131
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.6335878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_hit_180_00002
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 723
+        width: 70
+        height: 131
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.6335878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_hit_180_00004
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 288
+        width: 76
+        height: 161
+      alignment: 9
+      pivot: {x: 0.59210527, y: 0.51552796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_hit_180_00006
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 35
+        width: 90
+        height: 183
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.45355192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_hit_180_00008
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 26
+        width: 104
+        height: 192
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.43229166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_hit_180_00010
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 85
+        width: 116
+        height: 181
+      alignment: 9
+      pivot: {x: 0.45689654, y: 0.45856354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_hit_180_00012
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 240
+        width: 114
+        height: 162
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.5123457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_hit_180_00014
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 113
+        width: 92
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5543478, y: 0.497006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_hit_180_00016
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 272
+        width: 61
+        height: 177
+      alignment: 9
+      pivot: {x: 0.6229508, y: 0.46892655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_hit_180_00018
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 302
+        width: 133
+        height: 152
+      alignment: 9
+      pivot: {x: 0.7669173, y: 0.54605263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_hit_180_00020
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 756
+        width: 179
+        height: 115
+      alignment: 9
+      pivot: {x: 0.7150838, y: 0.7217391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_hit_180_00022
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 893
+        width: 178
+        height: 114
+      alignment: 9
+      pivot: {x: 0.7022472, y: 0.7280702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_hit_180_00024
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 893
+        width: 175
+        height: 114
+      alignment: 9
+      pivot: {x: 0.70857143, y: 0.7280702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_hit_180_00026
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 756
+        width: 170
+        height: 115
+      alignment: 9
+      pivot: {x: 0.7117647, y: 0.7217391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_hit_180_00028
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 618
+        width: 164
+        height: 116
+      alignment: 9
+      pivot: {x: 0.7134146, y: 0.7155172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_hit_180_00030
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 616
+        width: 158
+        height: 118
+      alignment: 9
+      pivot: {x: 0.721519, y: 0.7033898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_hit_180_00032
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 476
+        width: 151
+        height: 120
+      alignment: 9
+      pivot: {x: 0.7350993, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_hit_180_00034
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 471
+        width: 142
+        height: 123
+      alignment: 9
+      pivot: {x: 0.74647886, y: 0.67479676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_hit_180_00036
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 424
+        width: 127
+        height: 126
+      alignment: 9
+      pivot: {x: 0.7559055, y: 0.65873015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_hit_180_00038
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 572
+        width: 99
+        height: 129
+      alignment: 9
+      pivot: {x: 0.7676768, y: 0.64341086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

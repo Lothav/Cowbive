@@ -1,0 +1,880 @@
+fileFormatVersion: 2
+guid: 3fbab0c7e5309ee4bb4c768b5df4f2e5
+timeCreated: 1485179135
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Zombie-1_death_090_00026
+    21300002: Zombie-1_death_090_00028
+    21300004: Zombie-1_death_090_00030
+    21300006: Zombie-1_death_090_00032
+    21300008: Zombie-1_death_090_00034
+    21300010: Zombie-1_death_090_00036
+    21300012: Zombie-1_death_090_00038
+    21300014: Zombie-1_death_090_00040
+    21300016: Zombie-1_death_090_00042
+    21300018: Zombie-1_death_090_00044
+    21300020: Zombie-1_death_090_00046
+    21300022: Zombie-1_death_090_00048
+    21300024: Zombie-1_death_090_00050
+    21300026: Zombie-1_death_090_00052
+    21300028: Zombie-1_death_090_00054
+    21300030: Zombie-1_death_090_00056
+    21300032: Zombie-1_death_090_00058
+    21300034: Zombie-1_death_090_00060
+    21300036: Zombie-1_death_090_00062
+    21300038: Zombie-1_death_090_00064
+    21300040: Zombie-1_death_090_00066
+    21300042: Zombie-1_death_090_00068
+    21300044: Zombie-1_death_090_00070
+    21300046: Zombie-1_death_090_00072
+    21300048: Zombie-1_death_090_00074
+    21300050: Zombie-1_death_090_00076
+    21300052: Zombie-1_death_090_00078
+    21300054: Zombie-1_death_090_00080
+    21300056: Zombie-1_death_090_00082
+    21300058: Zombie-1_death_090_00084
+    21300060: Zombie-1_death_090_00086
+    21300062: Zombie-1_death_090_00088
+    21300064: Zombie-1_death_090_00090
+    21300066: Zombie-1_death_090_00092
+    21300068: Zombie-1_death_090_00094
+    21300070: Zombie-1_death_090_00096
+    21300072: Zombie-1_death_090_00098
+    21300074: Zombie-1_death_090_00100
+    21300076: Zombie-1_death_090_00102
+    21300078: Zombie-1_death_090_00104
+    21300080: Zombie-1_death_090_00106
+    21300082: Zombie-1_death_090_00108
+    21300084: Zombie-1_death_090_00110
+    21300086: Zombie-1_death_090_00112
+    21300088: Zombie-1_death_090_00114
+    21300090: Zombie-1_death_090_00116
+    21300092: Zombie-1_death_090_00118
+    21300094: Zombie-1_death_090_00120
+    21300096: Zombie-1_death_090_00122
+    21300098: Zombie-1_death_090_00124
+    21300100: Zombie-1_death_090_00126
+    21300102: Zombie-1_death_090_00128
+    21300104: Zombie-1_death_090_00130
+    21300106: Zombie-1_death_090_00132
+    21300108: Zombie-1_death_090_00134
+    21300110: Zombie-1_death_090_00136
+    21300112: Zombie-1_death_090_00138
+    21300114: Zombie-1_death_090_00140
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00026
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1912
+        width: 78
+        height: 132
+      alignment: 9
+      pivot: {x: 0.55128205, y: 0.25757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00028
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1912
+        width: 79
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5443038, y: 0.25757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00030
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1896
+        width: 81
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5308642, y: 0.22972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00032
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1880
+        width: 79
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5443038, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00034
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1870
+        width: 79
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5443038, y: 0.1954023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00036
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1726
+        width: 81
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5308642, y: 0.19354838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00038
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1080
+        width: 84
+        height: 233
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.15879828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00040
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1698
+        width: 82
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5243902, y: 0.1919192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00042
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1499
+        width: 84
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.20100503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00044
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1237
+        width: 92
+        height: 226
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.18141593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00046
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1463
+        width: 97
+        height: 210
+      alignment: 9
+      pivot: {x: 0.4226804, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00048
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1264
+        width: 89
+        height: 223
+      alignment: 9
+      pivot: {x: 0.4494382, y: 0.1838565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00050
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1083
+        width: 90
+        height: 230
+      alignment: 9
+      pivot: {x: 0.43333334, y: 0.17826086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00052
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1269
+        width: 92
+        height: 219
+      alignment: 9
+      pivot: {x: 0.41304347, y: 0.18721461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00054
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1271
+        width: 95
+        height: 217
+      alignment: 9
+      pivot: {x: 0.38947368, y: 0.19354838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00056
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1264
+        width: 98
+        height: 223
+      alignment: 9
+      pivot: {x: 0.39795917, y: 0.19282511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00058
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1061
+        width: 98
+        height: 238
+      alignment: 9
+      pivot: {x: 0.40816328, y: 0.18487395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00060
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1267
+        width: 98
+        height: 221
+      alignment: 9
+      pivot: {x: 0.41836736, y: 0.20361991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00062
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1066
+        width: 98
+        height: 233
+      alignment: 9
+      pivot: {x: 0.41836736, y: 0.20600858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00064
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1020
+        width: 96
+        height: 249
+      alignment: 9
+      pivot: {x: 0.42708334, y: 0.2128514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00066
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1013
+        width: 98
+        height: 254
+      alignment: 9
+      pivot: {x: 0.41836736, y: 0.22440945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00068
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1003
+        width: 98
+        height: 261
+      alignment: 9
+      pivot: {x: 0.39795917, y: 0.23754789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00070
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1027
+        width: 95
+        height: 244
+      alignment: 9
+      pivot: {x: 0.36842105, y: 0.27459016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00072
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1007
+        width: 96
+        height: 257
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.28015563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00074
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 791
+        width: 100
+        height: 275
+      alignment: 9
+      pivot: {x: 0.32, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00076
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 746
+        width: 102
+        height: 281
+      alignment: 9
+      pivot: {x: 0.30392158, y: 0.29537368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00078
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 972
+        width: 99
+        height: 265
+      alignment: 9
+      pivot: {x: 0.25252524, y: 0.33584905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00080
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 735
+        width: 101
+        height: 285
+      alignment: 9
+      pivot: {x: 0.22772278, y: 0.34736842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00082
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 706
+        width: 107
+        height: 297
+      alignment: 9
+      pivot: {x: 0.25233644, y: 0.35016835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00084
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 782
+        width: 105
+        height: 279
+      alignment: 9
+      pivot: {x: 0.21904762, y: 0.40860215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00086
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 807
+        width: 99
+        height: 273
+      alignment: 9
+      pivot: {x: 0.15151516, y: 0.4871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00088
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 366
+        width: 104
+        height: 327
+      alignment: 9
+      pivot: {x: 0.17307693, y: 0.4617737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00090
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 472
+        width: 109
+        height: 310
+      alignment: 9
+      pivot: {x: 0.19266056, y: 0.5193548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00092
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 84
+        width: 161
+        height: 350
+      alignment: 9
+      pivot: {x: 0.14906833, y: 0.5542857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00094
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 42
+        width: 162
+        height: 356
+      alignment: 9
+      pivot: {x: 0.10493827, y: 0.5449438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00096
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 5
+        width: 165
+        height: 361
+      alignment: 9
+      pivot: {x: 0.121212125, y: 0.54293627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00098
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 170
+        width: 167
+        height: 328
+      alignment: 9
+      pivot: {x: 0.13173653, y: 0.597561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00100
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 109
+        width: 169
+        height: 332
+      alignment: 9
+      pivot: {x: 0.14201184, y: 0.5903614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00102
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 102
+        width: 173
+        height: 332
+      alignment: 9
+      pivot: {x: 0.1618497, y: 0.5903614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00104
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 498
+        width: 187
+        height: 293
+      alignment: 9
+      pivot: {x: 0.22459893, y: 0.668942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00106
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 441
+        width: 193
+        height: 294
+      alignment: 9
+      pivot: {x: 0.24870466, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00108
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 434
+        width: 196
+        height: 295
+      alignment: 9
+      pivot: {x: 0.26020408, y: 0.6644068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00110
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 398
+        width: 197
+        height: 295
+      alignment: 9
+      pivot: {x: 0.26395938, y: 0.6644068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00112
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 729
+        width: 196
+        height: 278
+      alignment: 9
+      pivot: {x: 0.26020408, y: 0.705036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00114
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 693
+        width: 195
+        height: 279
+      alignment: 9
+      pivot: {x: 0.25641027, y: 0.702509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00116
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1299
+        width: 196
+        height: 189
+      alignment: 9
+      pivot: {x: 0.26020408, y: 1.037037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00118
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1859
+        width: 199
+        height: 185
+      alignment: 9
+      pivot: {x: 0.2713568, y: 1.0594594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00120
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1859
+        width: 201
+        height: 185
+      alignment: 9
+      pivot: {x: 0.27860695, y: 1.0594594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00122
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1673
+        width: 201
+        height: 186
+      alignment: 9
+      pivot: {x: 0.27860695, y: 1.0537634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00124
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1499
+        width: 200
+        height: 186
+      alignment: 9
+      pivot: {x: 0.275, y: 1.0537634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00126
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1488
+        width: 202
+        height: 186
+      alignment: 9
+      pivot: {x: 0.28217822, y: 1.0537634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00128
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1488
+        width: 202
+        height: 186
+      alignment: 9
+      pivot: {x: 0.28217822, y: 1.0537634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00130
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1859
+        width: 202
+        height: 185
+      alignment: 9
+      pivot: {x: 0.28217822, y: 1.0594594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00132
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1487
+        width: 202
+        height: 186
+      alignment: 9
+      pivot: {x: 0.28217822, y: 1.0537634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00134
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1313
+        width: 202
+        height: 186
+      alignment: 9
+      pivot: {x: 0.28217822, y: 1.0537634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00136
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1685
+        width: 202
+        height: 185
+      alignment: 9
+      pivot: {x: 0.28217822, y: 1.0594594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00138
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1674
+        width: 202
+        height: 185
+      alignment: 9
+      pivot: {x: 0.28217822, y: 1.0594594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_death_090_00140
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1674
+        width: 202
+        height: 185
+      alignment: 9
+      pivot: {x: 0.28217822, y: 1.0594594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

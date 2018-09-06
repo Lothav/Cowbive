@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: 74ffc72e7a5d544458e3d5f42e79ad87
+timeCreated: 1484920601
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Zombie-1_stand_and_throw_135_00000
+    21300002: Zombie-1_stand_and_throw_135_00002
+    21300004: Zombie-1_stand_and_throw_135_00004
+    21300006: Zombie-1_stand_and_throw_135_00006
+    21300008: Zombie-1_stand_and_throw_135_00008
+    21300010: Zombie-1_stand_and_throw_135_00010
+    21300012: Zombie-1_stand_and_throw_135_00012
+    21300014: Zombie-1_stand_and_throw_135_00014
+    21300016: Zombie-1_stand_and_throw_135_00016
+    21300018: Zombie-1_stand_and_throw_135_00018
+    21300020: Zombie-1_stand_and_throw_135_00020
+    21300022: Zombie-1_stand_and_throw_135_00022
+    21300024: Zombie-1_stand_and_throw_135_00024
+    21300026: Zombie-1_stand_and_throw_135_00026
+    21300028: Zombie-1_stand_and_throw_135_00028
+    21300030: Zombie-1_stand_and_throw_135_00030
+    21300032: Zombie-1_stand_and_throw_135_00032
+    21300034: Zombie-1_stand_and_throw_135_00034
+    21300036: Zombie-1_stand_and_throw_135_00036
+    21300038: Zombie-1_stand_and_throw_135_00038
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_throw_135_00000
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 428
+        width: 93
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5268817, y: 0.63076925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_throw_135_00002
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 558
+        width: 89
+        height: 144
+      alignment: 9
+      pivot: {x: 0.60674155, y: 0.5694444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_throw_135_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 187
+        width: 89
+        height: 157
+      alignment: 9
+      pivot: {x: 0.64044946, y: 0.522293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_throw_135_00006
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 702
+        width: 92
+        height: 152
+      alignment: 9
+      pivot: {x: 0.6195652, y: 0.5394737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_throw_135_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 91
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5934066, y: 0.525641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_throw_135_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 854
+        width: 88
+        height: 169
+      alignment: 9
+      pivot: {x: 0.57954544, y: 0.4852071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_throw_135_00012
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 858
+        width: 90
+        height: 165
+      alignment: 9
+      pivot: {x: 0.62222224, y: 0.4969697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_throw_135_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 344
+        width: 89
+        height: 164
+      alignment: 9
+      pivot: {x: 0.66292137, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_throw_135_00016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 674
+        width: 77
+        height: 180
+      alignment: 9
+      pivot: {x: 0.6753247, y: 0.45555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_throw_135_00018
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 855
+        width: 72
+        height: 168
+      alignment: 9
+      pivot: {x: 0.6527778, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_throw_135_00020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 508
+        width: 86
+        height: 166
+      alignment: 9
+      pivot: {x: 0.7093023, y: 0.4939759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_throw_135_00022
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 165
+        width: 72
+        height: 131
+      alignment: 9
+      pivot: {x: 0.6527778, y: 0.6259542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_throw_135_00024
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 723
+        width: 72
+        height: 132
+      alignment: 9
+      pivot: {x: 0.6527778, y: 0.6212121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_throw_135_00026
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 591
+        width: 72
+        height: 132
+      alignment: 9
+      pivot: {x: 0.6527778, y: 0.6212121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_throw_135_00028
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 459
+        width: 72
+        height: 132
+      alignment: 9
+      pivot: {x: 0.6527778, y: 0.6212121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_throw_135_00030
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 327
+        width: 72
+        height: 132
+      alignment: 9
+      pivot: {x: 0.6527778, y: 0.6212121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_throw_135_00032
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 296
+        width: 72
+        height: 132
+      alignment: 9
+      pivot: {x: 0.6527778, y: 0.6212121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_throw_135_00034
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 34
+        width: 72
+        height: 131
+      alignment: 9
+      pivot: {x: 0.6527778, y: 0.6259542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_throw_135_00036
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 196
+        width: 72
+        height: 131
+      alignment: 9
+      pivot: {x: 0.6527778, y: 0.6259542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-1_stand_and_throw_135_00038
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 65
+        width: 72
+        height: 131
+      alignment: 9
+      pivot: {x: 0.6527778, y: 0.6259542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

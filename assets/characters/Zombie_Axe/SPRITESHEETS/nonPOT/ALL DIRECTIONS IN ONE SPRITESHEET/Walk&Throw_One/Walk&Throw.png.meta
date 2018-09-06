@@ -1,0 +1,2071 @@
+fileFormatVersion: 2
+guid: f47a78fc144ad8a40abc0f649838b23e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00000
+    21300002: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00002
+    21300004: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00004
+    21300006: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00006
+    21300008: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00008
+    21300010: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00010
+    21300012: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00012
+    21300014: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00014
+    21300016: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00016
+    21300018: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00018
+    21300020: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00020
+    21300022: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00022
+    21300024: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00024
+    21300026: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00026
+    21300028: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00028
+    21300030: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00030
+    21300032: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00032
+    21300034: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00034
+    21300036: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00036
+    21300038: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00038
+    21300040: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00040
+    21300042: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00042
+    21300044: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00044
+    21300046: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00000
+    21300048: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00002
+    21300050: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00004
+    21300052: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00006
+    21300054: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00008
+    21300056: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00010
+    21300058: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00012
+    21300060: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00014
+    21300062: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00016
+    21300064: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00018
+    21300066: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00020
+    21300068: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00022
+    21300070: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00024
+    21300072: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00026
+    21300074: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00028
+    21300076: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00030
+    21300078: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00032
+    21300080: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00034
+    21300082: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00036
+    21300084: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00038
+    21300086: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00040
+    21300088: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00042
+    21300090: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00044
+    21300092: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00000
+    21300094: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00002
+    21300096: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00004
+    21300098: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00006
+    21300100: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00008
+    21300102: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00010
+    21300104: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00012
+    21300106: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00014
+    21300108: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00016
+    21300110: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00018
+    21300112: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00020
+    21300114: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00022
+    21300116: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00024
+    21300118: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00026
+    21300120: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00028
+    21300122: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00030
+    21300124: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00032
+    21300126: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00034
+    21300128: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00036
+    21300130: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00038
+    21300132: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00040
+    21300134: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00042
+    21300136: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00044
+    21300138: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00000
+    21300140: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00002
+    21300142: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00004
+    21300144: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00006
+    21300146: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00008
+    21300148: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00010
+    21300150: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00012
+    21300152: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00014
+    21300154: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00016
+    21300156: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00018
+    21300158: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00020
+    21300160: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00022
+    21300162: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00024
+    21300164: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00026
+    21300166: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00028
+    21300168: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00030
+    21300170: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00032
+    21300172: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00034
+    21300174: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00036
+    21300176: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00038
+    21300178: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00040
+    21300180: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00042
+    21300182: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00044
+    21300184: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00000
+    21300186: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00002
+    21300188: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00004
+    21300190: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00006
+    21300192: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00008
+    21300194: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00010
+    21300196: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00012
+    21300198: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00014
+    21300200: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00016
+    21300202: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00018
+    21300204: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00020
+    21300206: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00022
+    21300208: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00024
+    21300210: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00026
+    21300212: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00028
+    21300214: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00030
+    21300216: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00032
+    21300218: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00034
+    21300220: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00036
+    21300222: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00038
+    21300224: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00040
+    21300226: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00042
+    21300228: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00044
+    21300230: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00000
+    21300232: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00002
+    21300234: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00004
+    21300236: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00006
+    21300238: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00008
+    21300240: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00010
+    21300242: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00012
+    21300244: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00014
+    21300246: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00016
+    21300248: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00018
+    21300250: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00020
+    21300252: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00022
+    21300254: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00024
+    21300256: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00026
+    21300258: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00028
+    21300260: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00030
+    21300262: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00032
+    21300264: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00034
+    21300266: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00036
+    21300268: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00038
+    21300270: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00040
+    21300272: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00042
+    21300274: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00044
+    21300276: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00000
+    21300278: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00002
+    21300280: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00004
+    21300282: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00006
+    21300284: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00008
+    21300286: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00010
+    21300288: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00012
+    21300290: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00014
+    21300292: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00016
+    21300294: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00018
+    21300296: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00020
+    21300298: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00022
+    21300300: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00024
+    21300302: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00026
+    21300304: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00028
+    21300306: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00030
+    21300308: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00032
+    21300310: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00034
+    21300312: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00036
+    21300314: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00038
+    21300316: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00040
+    21300318: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00042
+    21300320: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00044
+    21300322: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00000
+    21300324: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00002
+    21300326: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00004
+    21300328: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00006
+    21300330: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00008
+    21300332: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00010
+    21300334: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00012
+    21300336: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00014
+    21300338: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00016
+    21300340: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00018
+    21300342: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00020
+    21300344: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00022
+    21300346: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00024
+    21300348: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00026
+    21300350: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00028
+    21300352: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00030
+    21300354: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00032
+    21300356: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00034
+    21300358: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00036
+    21300360: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00038
+    21300362: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00040
+    21300364: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00042
+    21300366: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00044
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00000
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 44
+        width: 71
+        height: 121
+      alignment: 9
+      pivot: {x: .338028163, y: .603305757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00002
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 80
+        width: 71
+        height: 118
+      alignment: 9
+      pivot: {x: .352112681, y: .601694942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00004
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 21
+        width: 66
+        height: 115
+      alignment: 9
+      pivot: {x: .439393938, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00006
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 127
+        width: 80
+        height: 114
+      alignment: 9
+      pivot: {x: .375, y: .605263174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00008
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 424
+        width: 85
+        height: 116
+      alignment: 9
+      pivot: {x: .400000006, y: .612068951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00010
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 199
+        width: 80
+        height: 121
+      alignment: 9
+      pivot: {x: .462500006, y: .628099203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00012
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 705
+        width: 72
+        height: 140
+      alignment: 9
+      pivot: {x: .486111104, y: .571428597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00014
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 684
+        width: 70
+        height: 145
+      alignment: 9
+      pivot: {x: .5, y: .551724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00016
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 551
+        width: 65
+        height: 133
+      alignment: 9
+      pivot: {x: .507692337, y: .609022558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00018
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 965
+        width: 100
+        height: 152
+      alignment: 9
+      pivot: {x: .25999999, y: .532894731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00020
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 709
+        width: 112
+        height: 132
+      alignment: 9
+      pivot: {x: .294642866, y: .606060624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00022
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 415
+        width: 96
+        height: 126
+      alignment: 9
+      pivot: {x: .3125, y: .634920657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00024
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 289
+        width: 94
+        height: 126
+      alignment: 9
+      pivot: {x: .319148928, y: .634920657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00026
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 764
+        width: 97
+        height: 125
+      alignment: 9
+      pivot: {x: .371134013, y: .639999986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00028
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1
+        width: 98
+        height: 124
+      alignment: 9
+      pivot: {x: .418367356, y: .645161271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00030
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 292
+        width: 101
+        height: 123
+      alignment: 9
+      pivot: {x: .475247532, y: .65040648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00032
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 829
+        width: 99
+        height: 122
+      alignment: 9
+      pivot: {x: .50505048, y: .647540987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00034
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 447
+        width: 95
+        height: 121
+      alignment: 9
+      pivot: {x: .536842108, y: .644628108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00036
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 585
+        width: 88
+        height: 121
+      alignment: 9
+      pivot: {x: .568181813, y: .636363626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00038
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 167
+        width: 82
+        height: 122
+      alignment: 9
+      pivot: {x: .585365832, y: .631147563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00040
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 478
+        width: 71
+        height: 122
+      alignment: 9
+      pivot: {x: .563380301, y: .622950792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00042
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 176
+        width: 59
+        height: 116
+      alignment: 9
+      pivot: {x: .474576265, y: .594827592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_000-Zombie-1_walk_and_throw_000_00044
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 47
+        width: 54
+        height: 121
+      alignment: 9
+      pivot: {x: .42592594, y: .603305757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00000
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 98
+        height: 127
+      alignment: 9
+      pivot: {x: .387755096, y: .622047246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00002
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 822
+        width: 104
+        height: 129
+      alignment: 9
+      pivot: {x: .375, y: .627906978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00004
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 628
+        width: 109
+        height: 131
+      alignment: 9
+      pivot: {x: .376146793, y: .633587778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00006
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1001
+        width: 122
+        height: 135
+      alignment: 9
+      pivot: {x: .344262302, y: .629629612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00008
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1009
+        width: 116
+        height: 139
+      alignment: 9
+      pivot: {x: .353448272, y: .611510813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00010
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 410
+        width: 97
+        height: 144
+      alignment: 9
+      pivot: {x: .432989687, y: .597222209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00012
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 987
+        width: 87
+        height: 158
+      alignment: 9
+      pivot: {x: .482758611, y: .550632894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00014
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 845
+        width: 85
+        height: 155
+      alignment: 9
+      pivot: {x: .470588237, y: .56774193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00016
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 682
+        width: 97
+        height: 147
+      alignment: 9
+      pivot: {x: .40206185, y: .591836751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00018
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1132
+        width: 121
+        height: 168
+      alignment: 9
+      pivot: {x: .34710744, y: .505952358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00020
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1129
+        width: 103
+        height: 171
+      alignment: 9
+      pivot: {x: .427184463, y: .508771956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00022
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 703
+        width: 105
+        height: 142
+      alignment: 9
+      pivot: {x: .428571433, y: .626760542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00024
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 699
+        width: 106
+        height: 146
+      alignment: 9
+      pivot: {x: .415094346, y: .643835604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00026
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 696
+        width: 105
+        height: 149
+      alignment: 9
+      pivot: {x: .409523815, y: .651006699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00028
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1148
+        width: 110
+        height: 152
+      alignment: 9
+      pivot: {x: .427272737, y: .664473712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00030
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1147
+        width: 112
+        height: 153
+      alignment: 9
+      pivot: {x: .4375, y: .673202634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00032
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1146
+        width: 113
+        height: 154
+      alignment: 9
+      pivot: {x: .442477882, y: .681818187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00034
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1145
+        width: 112
+        height: 155
+      alignment: 9
+      pivot: {x: .446428567, y: .683870971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00036
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1000
+        width: 108
+        height: 155
+      alignment: 9
+      pivot: {x: .453703701, y: .683870971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00038
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 964
+        width: 104
+        height: 154
+      alignment: 9
+      pivot: {x: .461538464, y: .681818187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00040
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 694
+        width: 91
+        height: 151
+      alignment: 9
+      pivot: {x: .428571433, y: .675496697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00042
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2
+        width: 80
+        height: 134
+      alignment: 9
+      pivot: {x: .412499994, y: .634328365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_045-Zombie-1_walk_and_throw_045_00044
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 143
+        width: 81
+        height: 128
+      alignment: 9
+      pivot: {x: .444444448, y: .6171875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00000
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 410
+        width: 93
+        height: 144
+      alignment: 9
+      pivot: {x: .473118275, y: .659722209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00002
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 845
+        width: 100
+        height: 155
+      alignment: 9
+      pivot: {x: .449999988, y: .625806451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00004
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1130
+        width: 105
+        height: 170
+      alignment: 9
+      pivot: {x: .428571433, y: .594117641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00006
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1134
+        width: 103
+        height: 166
+      alignment: 9
+      pivot: {x: .407766998, y: .620481908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00008
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 949
+        width: 95
+        height: 172
+      alignment: 9
+      pivot: {x: .410526305, y: .622093022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 87
+        height: 190
+      alignment: 9
+      pivot: {x: .436781615, y: .568421066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 729
+        width: 91
+        height: 191
+      alignment: 9
+      pivot: {x: .483516484, y: .570680618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00014
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 165
+        width: 93
+        height: 184
+      alignment: 9
+      pivot: {x: .537634432, y: .592391312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00016
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1107
+        width: 103
+        height: 193
+      alignment: 9
+      pivot: {x: .466019422, y: .549222827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00018
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 349
+        width: 80
+        height: 189
+      alignment: 9
+      pivot: {x: .474999994, y: .507936537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00020
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 538
+        width: 79
+        height: 191
+      alignment: 9
+      pivot: {x: .481012672, y: .481675386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00022
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 167
+        width: 79
+        height: 153
+      alignment: 9
+      pivot: {x: .481012672, y: .63398695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00024
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 606
+        width: 81
+        height: 158
+      alignment: 9
+      pivot: {x: .493827164, y: .645569623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00026
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 993
+        width: 84
+        height: 166
+      alignment: 9
+      pivot: {x: .511904776, y: .662650585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00028
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 951
+        width: 86
+        height: 172
+      alignment: 9
+      pivot: {x: .523255825, y: .674418628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00030
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 20
+        width: 87
+        height: 179
+      alignment: 9
+      pivot: {x: .528735638, y: .692737401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00032
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 559
+        width: 88
+        height: 180
+      alignment: 9
+      pivot: {x: .522727251, y: .699999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00034
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 739
+        width: 90
+        height: 181
+      alignment: 9
+      pivot: {x: .5, y: .701657474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00036
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 379
+        width: 90
+        height: 180
+      alignment: 9
+      pivot: {x: .477777779, y: .705555558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00038
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 930
+        width: 89
+        height: 177
+      alignment: 9
+      pivot: {x: .460674167, y: .700564981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00040
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 968
+        width: 89
+        height: 166
+      alignment: 9
+      pivot: {x: .449438214, y: .686747015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00042
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 816
+        width: 90
+        height: 143
+      alignment: 9
+      pivot: {x: .455555558, y: .643356621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_090-Zombie-1_walk_and_throw_090_00044
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 271
+        width: 90
+        height: 139
+      alignment: 9
+      pivot: {x: .477777779, y: .647482038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00000
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 550
+        width: 96
+        height: 149
+      alignment: 9
+      pivot: {x: .53125, y: .677852333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00002
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 954
+        width: 96
+        height: 169
+      alignment: 9
+      pivot: {x: .59375, y: .603550315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00004
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1117
+        width: 100
+        height: 183
+      alignment: 9
+      pivot: {x: .610000014, y: .55737704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00006
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1123
+        width: 100
+        height: 177
+      alignment: 9
+      pivot: {x: .610000014, y: .564971745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00008
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1123
+        width: 98
+        height: 177
+      alignment: 9
+      pivot: {x: .591836751, y: .559322059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 98
+        height: 187
+      alignment: 9
+      pivot: {x: .591836751, y: .518716574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00012
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1118
+        width: 100
+        height: 182
+      alignment: 9
+      pivot: {x: .610000014, y: .532967031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00014
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1121
+        width: 99
+        height: 179
+      alignment: 9
+      pivot: {x: .606060624, y: .536312878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00016
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 81
+        height: 197
+      alignment: 9
+      pivot: {x: .518518507, y: .482233495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00018
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 199
+        width: 80
+        height: 180
+      alignment: 9
+      pivot: {x: .512499988, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00020
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1121
+        width: 104
+        height: 179
+      alignment: 9
+      pivot: {x: .625, y: .513966501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00022
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 241
+        width: 80
+        height: 148
+      alignment: 9
+      pivot: {x: .512499988, y: .655405402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00024
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 474
+        width: 80
+        height: 154
+      alignment: 9
+      pivot: {x: .512499988, y: .655844152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00026
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 292
+        width: 82
+        height: 156
+      alignment: 9
+      pivot: {x: .5, y: .660256386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00028
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 448
+        width: 87
+        height: 158
+      alignment: 9
+      pivot: {x: .505747139, y: .658227861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00030
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 440
+        width: 92
+        height: 159
+      alignment: 9
+      pivot: {x: .5, y: .660377383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00032
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 157
+      alignment: 9
+      pivot: {x: .489583343, y: .662420392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00034
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 125
+        width: 98
+        height: 156
+      alignment: 9
+      pivot: {x: .5, y: .660256386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00036
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 320
+        width: 98
+        height: 154
+      alignment: 9
+      pivot: {x: .5, y: .662337661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00038
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 541
+        width: 96
+        height: 153
+      alignment: 9
+      pivot: {x: .510416687, y: .660130739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00040
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 402
+        width: 91
+        height: 148
+      alignment: 9
+      pivot: {x: .538461566, y: .655405402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00042
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 257
+        width: 90
+        height: 145
+      alignment: 9
+      pivot: {x: .555555582, y: .655172408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_135-Zombie-1_walk_and_throw_135_00044
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 265
+        width: 90
+        height: 145
+      alignment: 9
+      pivot: {x: .566666663, y: .668965518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00000
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 697
+        width: 92
+        height: 134
+      alignment: 9
+      pivot: {x: .641304374, y: .641791046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00002
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 541
+        width: 92
+        height: 141
+      alignment: 9
+      pivot: {x: .641304374, y: .609929085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00004
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 985
+        width: 92
+        height: 162
+      alignment: 9
+      pivot: {x: .641304374, y: .530864179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00006
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 764
+        width: 92
+        height: 166
+      alignment: 9
+      pivot: {x: .641304374, y: .518072307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00008
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 831
+        width: 92
+        height: 154
+      alignment: 9
+      pivot: {x: .641304374, y: .558441579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00010
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 956
+        width: 98
+        height: 167
+      alignment: 9
+      pivot: {x: .602040827, y: .514970064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00012
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 94
+        height: 165
+      alignment: 9
+      pivot: {x: .627659559, y: .521212101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00014
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 958
+        width: 93
+        height: 174
+      alignment: 9
+      pivot: {x: .634408593, y: .494252861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00016
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 93
+        height: 185
+      alignment: 9
+      pivot: {x: .634408593, y: .46486485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00018
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1136
+        width: 115
+        height: 164
+      alignment: 9
+      pivot: {x: .713043451, y: .524390221}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00020
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1159
+        width: 140
+        height: 141
+      alignment: 9
+      pivot: {x: .714285731, y: .609929085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00022
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1001
+        width: 117
+        height: 129
+      alignment: 9
+      pivot: {x: .683760703, y: .666666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00024
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 759
+        width: 110
+        height: 130
+      alignment: 9
+      pivot: {x: .690909088, y: .661538482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00026
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 990
+        width: 108
+        height: 131
+      alignment: 9
+      pivot: {x: .666666687, y: .656488538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00028
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 684
+        width: 107
+        height: 132
+      alignment: 9
+      pivot: {x: .626168251, y: .651515126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00030
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 862
+        width: 108
+        height: 132
+      alignment: 9
+      pivot: {x: .57407409, y: .651515126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00032
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 690
+        width: 109
+        height: 132
+      alignment: 9
+      pivot: {x: .550458729, y: .651515126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00034
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 577
+        width: 107
+        height: 132
+      alignment: 9
+      pivot: {x: .551401854, y: .651515126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00036
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 729
+        width: 108
+        height: 133
+      alignment: 9
+      pivot: {x: .546296299, y: .646616518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00038
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 441
+        width: 106
+        height: 133
+      alignment: 9
+      pivot: {x: .556603789, y: .646616518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00040
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 551
+        width: 101
+        height: 133
+      alignment: 9
+      pivot: {x: .584158421, y: .646616518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00042
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 418
+        width: 94
+        height: 133
+      alignment: 9
+      pivot: {x: .627659559, y: .646616518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_180-Zombie-1_walk_and_throw_180_00044
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 285
+        width: 92
+        height: 133
+      alignment: 9
+      pivot: {x: .641304374, y: .646616518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00000
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 568
+        width: 91
+        height: 129
+      alignment: 9
+      pivot: {x: .769230783, y: .627906978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00002
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 600
+        width: 96
+        height: 129
+      alignment: 9
+      pivot: {x: .770833313, y: .627906978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00004
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 95
+        height: 136
+      alignment: 9
+      pivot: {x: .768421054, y: .595588207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00006
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 994
+        width: 108
+        height: 151
+      alignment: 9
+      pivot: {x: .796296299, y: .529801309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00008
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 852
+        width: 106
+        height: 149
+      alignment: 9
+      pivot: {x: .792452812, y: .536912739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00010
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 570
+        width: 86
+        height: 137
+      alignment: 9
+      pivot: {x: .744186044, y: .591240883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00012
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 554
+        width: 76
+        height: 149
+      alignment: 9
+      pivot: {x: .710526288, y: .550335586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00014
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 599
+        width: 75
+        height: 165
+      alignment: 9
+      pivot: {x: .706666648, y: .4909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00016
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 281
+        width: 94
+        height: 159
+      alignment: 9
+      pivot: {x: .670212746, y: .509433985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00018
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1155
+        width: 131
+        height: 145
+      alignment: 9
+      pivot: {x: .725190818, y: .551724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00020
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 845
+        width: 115
+        height: 120
+      alignment: 9
+      pivot: {x: .678260863, y: .666666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00022
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 829
+        width: 114
+        height: 120
+      alignment: 9
+      pivot: {x: .666666687, y: .666666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00024
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 889
+        width: 116
+        height: 120
+      alignment: 9
+      pivot: {x: .672413766, y: .666666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00026
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 841
+        width: 115
+        height: 123
+      alignment: 9
+      pivot: {x: .669565201, y: .67479676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00028
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 703
+        width: 111
+        height: 126
+      alignment: 9
+      pivot: {x: .684684694, y: .682539701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00030
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 502
+        width: 106
+        height: 126
+      alignment: 9
+      pivot: {x: .698113203, y: .690476179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00032
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 315
+        width: 103
+        height: 126
+      alignment: 9
+      pivot: {x: .70873785, y: .698412716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00034
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 100
+        height: 127
+      alignment: 9
+      pivot: {x: .699999988, y: .692913413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00036
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 328
+        width: 95
+        height: 128
+      alignment: 9
+      pivot: {x: .694736838, y: .6796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00038
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 415
+        width: 88
+        height: 127
+      alignment: 9
+      pivot: {x: .704545438, y: .669291317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00040
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 156
+        width: 78
+        height: 127
+      alignment: 9
+      pivot: {x: .730769217, y: .653543293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00042
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 156
+        width: 72
+        height: 127
+      alignment: 9
+      pivot: {x: .722222209, y: .645669281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_225-Zombie-1_walk_and_throw_225_00044
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 15
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: .722222209, y: .6328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00000
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 296
+        width: 85
+        height: 128
+      alignment: 9
+      pivot: {x: .552941203, y: .625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00002
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 0
+        width: 96
+        height: 127
+      alignment: 9
+      pivot: {x: .583333313, y: .629921257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00004
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 574
+        width: 107
+        height: 129
+      alignment: 9
+      pivot: {x: .616822422, y: .643410861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00006
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 845
+        width: 110
+        height: 145
+      alignment: 9
+      pivot: {x: .645454526, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00008
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 136
+        width: 101
+        height: 156
+      alignment: 9
+      pivot: {x: .643564343, y: .583333313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00010
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 432
+        width: 84
+        height: 145
+      alignment: 9
+      pivot: {x: .583333313, y: .634482741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00012
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 836
+        width: 87
+        height: 151
+      alignment: 9
+      pivot: {x: .540229857, y: .609271526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00014
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 959
+        width: 90
+        height: 170
+      alignment: 9
+      pivot: {x: .51111114, y: .535294116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00016
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 554
+        width: 99
+        height: 149
+      alignment: 9
+      pivot: {x: .606060624, y: .590604007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00018
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 540
+        width: 79
+        height: 144
+      alignment: 9
+      pivot: {x: .658227861, y: .583333313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00020
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 207
+        width: 68
+        height: 121
+      alignment: 9
+      pivot: {x: .676470578, y: .669421494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00022
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 53
+        width: 71
+        height: 119
+      alignment: 9
+      pivot: {x: .647887349, y: .672268927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00024
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 80
+        width: 74
+        height: 119
+      alignment: 9
+      pivot: {x: .608108103, y: .672268927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00026
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 41
+        width: 77
+        height: 124
+      alignment: 9
+      pivot: {x: .584415555, y: .685483873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00028
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 165
+        width: 79
+        height: 128
+      alignment: 9
+      pivot: {x: .569620252, y: .6953125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00030
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 127
+        width: 83
+        height: 130
+      alignment: 9
+      pivot: {x: .566265047, y: .699999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00032
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 706
+        width: 87
+        height: 130
+      alignment: 9
+      pivot: {x: .574712634, y: .707692325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00034
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 838
+        width: 89
+        height: 130
+      alignment: 9
+      pivot: {x: .584269643, y: .707692325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00036
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 707
+        width: 88
+        height: 131
+      alignment: 9
+      pivot: {x: .590909064, y: .694656491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00038
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 420
+        width: 88
+        height: 131
+      alignment: 9
+      pivot: {x: .602272749, y: .687022924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00040
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 298
+        width: 87
+        height: 129
+      alignment: 9
+      pivot: {x: .597701132, y: .666666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00042
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 456
+        width: 87
+        height: 129
+      alignment: 9
+      pivot: {x: .586206913, y: .651162803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_270-Zombie-1_walk_and_throw_270_00044
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 168
+        width: 85
+        height: 128
+      alignment: 9
+      pivot: {x: .564705908, y: .6328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00000
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 136
+        width: 83
+        height: 129
+      alignment: 9
+      pivot: {x: .518072307, y: .627906978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00002
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 158
+        width: 82
+        height: 127
+      alignment: 9
+      pivot: {x: .463414639, y: .637795269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00004
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 165
+        width: 86
+        height: 127
+      alignment: 9
+      pivot: {x: .441860467, y: .645669281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00006
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 320
+        width: 87
+        height: 127
+      alignment: 9
+      pivot: {x: .436781615, y: .645669281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00008
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 283
+        width: 85
+        height: 137
+      alignment: 9
+      pivot: {x: .447058827, y: .598540127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00010
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 127
+        width: 84
+        height: 130
+      alignment: 9
+      pivot: {x: .452380955, y: .63846153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00012
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 293
+        width: 87
+        height: 139
+      alignment: 9
+      pivot: {x: .436781615, y: .597122312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00014
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 389
+        width: 84
+        height: 152
+      alignment: 9
+      pivot: {x: .452380955, y: .539473712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00016
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 542
+        width: 68
+        height: 140
+      alignment: 9
+      pivot: {x: .558823526, y: .578571439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00018
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 427
+        width: 67
+        height: 143
+      alignment: 9
+      pivot: {x: .567164183, y: .566433549}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00020
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 378
+        width: 102
+        height: 124
+      alignment: 9
+      pivot: {x: .372549027, y: .65322578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00022
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 44
+        width: 76
+        height: 123
+      alignment: 9
+      pivot: {x: .5, y: .658536613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00024
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 33
+        width: 70
+        height: 123
+      alignment: 9
+      pivot: {x: .54285717, y: .658536613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00026
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 198
+        width: 71
+        height: 122
+      alignment: 9
+      pivot: {x: .535211265, y: .66393441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00028
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 257
+        width: 75
+        height: 121
+      alignment: 9
+      pivot: {x: .50666666, y: .669421494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00030
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 44
+        width: 77
+        height: 121
+      alignment: 9
+      pivot: {x: .493506491, y: .669421494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00032
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 829
+        width: 79
+        height: 120
+      alignment: 9
+      pivot: {x: .506329119, y: .675000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00034
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 38
+        width: 77
+        height: 120
+      alignment: 9
+      pivot: {x: .519480526, y: .675000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00036
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 136
+        width: 75
+        height: 121
+      alignment: 9
+      pivot: {x: .533333361, y: .669421494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00038
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 33
+        width: 75
+        height: 123
+      alignment: 9
+      pivot: {x: .519999981, y: .658536613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00040
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 32
+        width: 76
+        height: 124
+      alignment: 9
+      pivot: {x: .5, y: .65322578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00042
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 172
+        width: 77
+        height: 126
+      alignment: 9
+      pivot: {x: .493506491, y: .642857134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie-1_walk_and_throw_315-Zombie-1_walk_and_throw_315_00044
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 7
+        width: 78
+        height: 129
+      alignment: 9
+      pivot: {x: .487179488, y: .627906978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
