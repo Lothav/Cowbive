@@ -24309,6 +24309,24 @@
         "kind": "audio",
         "name": "9mm.wav",
         "userAdded": false
+      },
+      {
+        "file": "assets/zombie.wav",
+        "kind": "audio",
+        "name": "zombie.wav",
+        "userAdded": true
+      },
+      {
+        "file": "assets/axe_impact.wav",
+        "kind": "audio",
+        "name": "axe_impact.wav",
+        "userAdded": false
+      },
+      {
+        "file": "assets/zombie_death.wav",
+        "kind": "audio",
+        "name": "zombie_death.wav",
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -24318,10 +24336,14 @@
   "variables": [
     {
       "name": "FrameCount",
-      "value": "0"
+      "value": "500"
     },
     {
       "name": "ZCount",
+      "value": "0"
+    },
+    {
+      "name": "ZombieCount",
       "value": "0"
     }
   ],
@@ -24364,21 +24386,6 @@
         }
       ],
       "instances": [
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 15,
-          "layer": "",
-          "locked": false,
-          "name": "Cowboy",
-          "width": 15,
-          "x": 315,
-          "y": 300,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
         {
           "angle": 0,
           "customSize": false,
@@ -24460,11 +24467,11 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "ZombieAxe",
+          "name": "Cowboy",
           "width": 0,
-          "x": 217,
-          "y": 71,
-          "zOrder": 9,
+          "x": 278,
+          "y": 287,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -54948,6 +54955,10 @@
             {
               "name": "Attacking",
               "value": "0"
+            },
+            {
+              "name": "LastFrame",
+              "value": "-1"
             }
           ],
           "behaviors": [
@@ -84108,19 +84119,7 @@
               "parameters": [
                 "Cowboy",
                 "=",
-                "Cowboy.Y()"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "ZombieAxe",
-                "=",
-                "ZombieAxe.Y() + 100"
+                "1000 + Cowboy.Y()"
               ],
               "subInstructions": []
             },
@@ -84144,7 +84143,42 @@
               "parameters": [
                 "DebugText5",
                 "=",
-                "ToString(ZombieAxe.Variable(BeignHitted))"
+                "\"Spwan time:\" + ToString(500 - TimeFromStart())"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "ZombieAxe",
+                "Lives",
+                ">",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangePlan"
+              },
+              "parameters": [
+                "ZombieAxe",
+                "=",
+                "1000 + ZombieAxe.Y() + 100"
               ],
               "subInstructions": []
             }
@@ -84164,7 +84198,7 @@
               "parameters": [
                 "FrameCount",
                 ">=",
-                "200"
+                "500 - (TimeFromStart()*2)"
               ],
               "subInstructions": []
             }
@@ -84181,13 +84215,53 @@
                 "0"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "ZombieAxe",
+                "Random(800)",
+                "Random(600)",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "ZombieCount",
+                "+",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "zombie.wav",
+                "no",
+                "50",
+                "1"
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
         },
         {
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -85468,7 +85542,7 @@
         },
         {
           "disabled": false,
-          "folded": true,
+          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -85483,13 +85557,26 @@
                 "0"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "ZombieAxe",
+                "Lives",
+                ">",
+                "0"
+              ],
+              "subInstructions": []
             }
           ],
           "actions": [],
           "events": [
             {
               "disabled": false,
-              "folded": true,
+              "folded": false,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -86397,7 +86484,113 @@
                       "subInstructions": []
                     }
                   ],
-                  "events": []
+                  "events": [
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "Sprite"
+                          },
+                          "parameters": [
+                            "ZombieAxe",
+                            "!=",
+                            "0"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarObjet"
+                          },
+                          "parameters": [
+                            "ZombieAxe",
+                            "LastFrame",
+                            "=",
+                            "-1"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": []
+                    },
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "Sprite"
+                          },
+                          "parameters": [
+                            "ZombieAxe",
+                            "=",
+                            "0"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "VarObjet"
+                          },
+                          "parameters": [
+                            "ZombieAxe",
+                            "LastFrame",
+                            "=",
+                            "0"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "axe_impact.wav",
+                            "no",
+                            "50",
+                            ""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarObjet"
+                          },
+                          "parameters": [
+                            "ZombieAxe",
+                            "LastFrame",
+                            "=",
+                            "0"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": []
+                    },
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [],
+                      "events": []
+                    }
+                  ]
                 }
               ]
             }
@@ -86405,7 +86598,7 @@
         },
         {
           "disabled": false,
-          "folded": true,
+          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -86465,7 +86658,34 @@
                   "parameters": [
                     "ZombieAxe",
                     "=",
-                    "-1"
+                    "ZombieAxe.Y() + 100"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "ZombieAxe",
+                    "BeignHitted",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "zombie_death.wav",
+                    "no",
+                    "50",
+                    "1"
                   ],
                   "subInstructions": []
                 }
