@@ -24297,6 +24297,18 @@
         "name": "Death_LU-57.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "file": "assets/shot.wav",
+        "kind": "audio",
+        "name": "shot.wav",
+        "userAdded": true
+      },
+      {
+        "file": "assets/9mm.wav",
+        "kind": "audio",
+        "name": "9mm.wav",
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -24441,6 +24453,21 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieAxe",
+          "width": 0,
+          "x": 217,
+          "y": 71,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -24452,6 +24479,14 @@
             {
               "name": "isFiring",
               "value": "0"
+            },
+            {
+              "name": "Lives",
+              "value": "10"
+            },
+            {
+              "name": "LastAnimation",
+              "value": "-1"
             }
           ],
           "behaviors": [
@@ -54909,6 +54944,10 @@
             {
               "name": "BeignHitted",
               "value": "0"
+            },
+            {
+              "name": "Attacking",
+              "value": "0"
             }
           ],
           "behaviors": [
@@ -84040,18 +84079,6 @@
             {
               "type": {
                 "inverted": false,
-                "value": "TextObject::String"
-              },
-              "parameters": [
-                "DebugText2",
-                "=",
-                "\"ZombieAxe Pos: \" + ToString(ZombieAxe.X()) + \" - \" +ToString(ZombieAxe.Y())"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "ModVarGlobal"
               },
               "parameters": [
@@ -84105,7 +84132,7 @@
               "parameters": [
                 "DebugText4",
                 "=",
-                "VariableString(Variable)"
+                "\"Cowboy Lives :\" + ToString(Cowboy.Variable(Lives))"
               ],
               "subInstructions": []
             },
@@ -84152,20 +84179,6 @@
                 "FrameCount",
                 "=",
                 "0"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "Create"
-              },
-              "parameters": [
-                "",
-                "ZombieAxe",
-                "Cowboy.X()",
-                "Cowboy.Y()",
-                ""
               ],
               "subInstructions": []
             }
@@ -84249,7 +84262,7 @@
                       "parameters": [
                         "Cowboy",
                         "=",
-                        "1"
+                        "0"
                       ],
                       "subInstructions": []
                     }
@@ -84284,7 +84297,7 @@
                       "parameters": [
                         "Cowboy",
                         "=",
-                        "2"
+                        "5"
                       ],
                       "subInstructions": []
                     }
@@ -84313,13 +84326,26 @@
                   "conditions": [
                     {
                       "type": {
+                        "inverted": true,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "LastAnimation",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
                         "inverted": false,
                         "value": "Sprite"
                       },
                       "parameters": [
                         "Cowboy",
                         "=",
-                        "6"
+                        "0"
                       ],
                       "subInstructions": []
                     }
@@ -84332,9 +84358,23 @@
                       },
                       "parameters": [
                         "Cowboy",
-                        "isFiring",
+                        "LastAnimation",
                         "=",
-                        "1"
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "shot.wav",
+                        "no",
+                        "30",
+                        "1.2"
                       ],
                       "subInstructions": []
                     }
@@ -84348,13 +84388,26 @@
                   "conditions": [
                     {
                       "type": {
+                        "inverted": true,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "LastAnimation",
+                        "=",
+                        "5"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
                         "inverted": false,
                         "value": "Sprite"
                       },
                       "parameters": [
                         "Cowboy",
                         "=",
-                        "7"
+                        "5"
                       ],
                       "subInstructions": []
                     }
@@ -84367,9 +84420,23 @@
                       },
                       "parameters": [
                         "Cowboy",
-                        "isFiring",
+                        "LastAnimation",
                         "=",
-                        "1"
+                        "5"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "9mm.wav",
+                        "no",
+                        "30",
+                        "1.2"
                       ],
                       "subInstructions": []
                     }
@@ -84418,6 +84485,19 @@
                     "isFiring",
                     "=",
                     "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Cowboy",
+                    "LastAnimation",
+                    "=",
+                    "-1"
                   ],
                   "subInstructions": []
                 }
@@ -84886,7 +84966,20 @@
                       "parameters": [
                         "Cowboy",
                         "=",
-                        "6"
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "LastAnimation",
+                        "=",
+                        "0"
                       ],
                       "subInstructions": []
                     }
@@ -84902,6 +84995,33 @@
                         "isFiring",
                         "=",
                         "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "LastAnimation",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "shot.wav",
+                        "no",
+                        "30",
+                        "1.2"
                       ],
                       "subInstructions": []
                     }
@@ -84921,7 +85041,20 @@
                       "parameters": [
                         "Cowboy",
                         "=",
-                        "2"
+                        "5"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "LastAnimation",
+                        "=",
+                        "5"
                       ],
                       "subInstructions": []
                     }
@@ -84937,6 +85070,33 @@
                         "isFiring",
                         "=",
                         "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "9mm.wav",
+                        "no",
+                        "30",
+                        "1.2"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "LastAnimation",
+                        "=",
+                        "5"
                       ],
                       "subInstructions": []
                     }
@@ -84956,7 +85116,20 @@
                       "parameters": [
                         "Cowboy",
                         "=",
-                        "1"
+                        "10"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "LastAnimation",
+                        "=",
+                        "10"
                       ],
                       "subInstructions": []
                     }
@@ -84972,6 +85145,33 @@
                         "isFiring",
                         "=",
                         "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "LastAnimation",
+                        "=",
+                        "10"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "shot.wav",
+                        "no",
+                        "30",
+                        "1.2"
                       ],
                       "subInstructions": []
                     }
@@ -84991,7 +85191,20 @@
                       "parameters": [
                         "Cowboy",
                         "=",
-                        "7"
+                        "15"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "LastAnimation",
+                        "=",
+                        "15"
                       ],
                       "subInstructions": []
                     }
@@ -85007,6 +85220,183 @@
                         "isFiring",
                         "=",
                         "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "LastAnimation",
+                        "=",
+                        "15"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "9mm.wav",
+                        "no",
+                        "30",
+                        "1.2"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Sprite"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "=",
+                        "20"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "LastAnimation",
+                        "=",
+                        "20"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "isFiring",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "LastAnimation",
+                        "=",
+                        "20"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "shot.wav",
+                        "no",
+                        "30",
+                        "1.2"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Sprite"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "=",
+                        "25"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "LastAnimation",
+                        "=",
+                        "25"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "isFiring",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "LastAnimation",
+                        "=",
+                        "25"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "9mm.wav",
+                        "no",
+                        "30",
+                        "1.2"
                       ],
                       "subInstructions": []
                     }
@@ -85057,6 +85447,19 @@
                     "0\n"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Cowboy",
+                    "LastAnimation",
+                    "=",
+                    "-1"
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -85065,7 +85468,7 @@
         },
         {
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -85086,7 +85489,7 @@
           "events": [
             {
               "disabled": false,
-              "folded": false,
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -85561,7 +85964,7 @@
             },
             {
               "disabled": false,
-              "folded": false,
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -85620,7 +86023,7 @@
                       "parameters": [
                         "ZombieAxe",
                         "90",
-                        "45"
+                        "44"
                       ],
                       "subInstructions": []
                     }
@@ -85917,7 +86320,21 @@
                   "disabled": false,
                   "folded": false,
                   "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "Distance"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "ZombieAxe",
+                        "130",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
                   "actions": [
                     {
                       "type": {
@@ -85933,6 +86350,54 @@
                     }
                   ],
                   "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Distance"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "ZombieAxe",
+                        "130",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "ZombieAxe",
+                        "=",
+                        "8 + ZombieAxe.Direction()"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "ZombieAxe",
+                        "Attacking",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
                 }
               ]
             }
@@ -85940,7 +86405,7 @@
         },
         {
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -86059,6 +86524,113 @@
                   },
                   "parameters": [
                     "ZombieAxe",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "ZombieAxe",
+                "Attacking",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Sprite"
+                  },
+                  "parameters": [
+                    "ZombieAxe",
+                    "=",
+                    "13"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Distance"
+                  },
+                  "parameters": [
+                    "Cowboy",
+                    "ZombieAxe",
+                    "130",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Cowboy",
+                    "Lives",
+                    "-",
+                    "1"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Distance"
+                  },
+                  "parameters": [
+                    "Cowboy",
+                    "ZombieAxe",
+                    "130",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "ZombieAxe",
+                    "Attacking",
                     "=",
                     "0"
                   ],
