@@ -22519,11 +22519,11 @@
       "objectsGroups": [],
       "variables": [
         {
-          "name": "Variable",
+          "name": "CollisionX",
           "value": "0"
         },
         {
-          "name": "Variable2",
+          "name": "CollisionY",
           "value": "0"
         }
       ],
@@ -53005,7 +53005,7 @@
           "variables": [
             {
               "name": "Lives",
-              "value": "3"
+              "value": "10"
             },
             {
               "name": "BeignHitted",
@@ -89028,7 +89028,7 @@
               "parameters": [
                 "DebugText5",
                 "=",
-                "VariableString(Variable2)"
+                "ToString(Zombie.Variable(BeignHitted))"
               ],
               "subInstructions": []
             }
@@ -90016,11 +90016,387 @@
                         "Zombie",
                         "Cowboy.X()+75",
                         "Cowboy.Y()+100",
-                        "Cowboy.X()+75+500",
                         "Cowboy.X()+75",
-                        "Variable",
-                        "Variable2",
+                        "Cowboy.Y()+100+500",
+                        "CollisionX",
+                        "CollisionY",
                         ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Direction"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "BeignHitted",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "RaycastToPosition"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "Cowboy.X()+75",
+                        "Cowboy.Y()+100",
+                        "Cowboy.X()+75-500",
+                        "Cowboy.Y()+100",
+                        "CollisionX",
+                        "CollisionY",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Direction"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "BeignHitted",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "RaycastToPosition"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "Cowboy.X()+75",
+                        "Cowboy.Y()+100",
+                        "Cowboy.X()+75",
+                        "Cowboy.Y()+100-500",
+                        "CollisionX",
+                        "CollisionY",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Direction"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "=",
+                        "2"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "BeignHitted",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "RaycastToPosition"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "Cowboy.X()+75",
+                        "Cowboy.Y()+100",
+                        "Cowboy.X()+75+500",
+                        "Cowboy.Y()+100",
+                        "CollisionX",
+                        "CollisionY",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Direction"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "=",
+                        "3"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "BeignHitted",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "RaycastToPosition"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "Cowboy.X()+75",
+                        "Cowboy.Y()+100",
+                        "Cowboy.X()-75-355",
+                        "Cowboy.Y()+100+355",
+                        "CollisionX",
+                        "CollisionY",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Direction"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "=",
+                        "4"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "BeignHitted",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "RaycastToPosition"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "Cowboy.X()+75",
+                        "Cowboy.Y()+100",
+                        "Cowboy.X()+75-355",
+                        "Cowboy.Y()+100-355",
+                        "CollisionX",
+                        "CollisionY",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Direction"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "=",
+                        "5"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "BeignHitted",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "RaycastToPosition"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "Cowboy.X()+75",
+                        "Cowboy.Y()+100",
+                        "Cowboy.X()+75+355",
+                        "Cowboy.Y()+100-355",
+                        "CollisionX",
+                        "CollisionY",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Direction"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "=",
+                        "6"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "BeignHitted",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "RaycastToPosition"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "Cowboy.X()+75",
+                        "Cowboy.Y()+100",
+                        "Cowboy.X()+75+355",
+                        "Cowboy.Y()+100+355",
+                        "CollisionX",
+                        "CollisionY",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Direction"
+                      },
+                      "parameters": [
+                        "Cowboy",
+                        "=",
+                        "7"
                       ],
                       "subInstructions": []
                     }
@@ -90082,7 +90458,7 @@
             },
             {
               "disabled": false,
-              "folded": true,
+              "folded": false,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -90141,7 +90517,7 @@
                       "parameters": [
                         "Zombie",
                         "180",
-                        "20"
+                        "45"
                       ],
                       "subInstructions": []
                     }
@@ -90187,7 +90563,7 @@
                       "parameters": [
                         "Zombie",
                         "270",
-                        "20"
+                        "45"
                       ],
                       "subInstructions": []
                     }
@@ -90233,7 +90609,7 @@
                       "parameters": [
                         "Zombie",
                         "45",
-                        "20"
+                        "45"
                       ],
                       "subInstructions": []
                     }
@@ -90279,7 +90655,7 @@
                       "parameters": [
                         "Zombie",
                         "315",
-                        "20"
+                        "45"
                       ],
                       "subInstructions": []
                     }
@@ -90325,7 +90701,7 @@
                       "parameters": [
                         "Zombie",
                         "135",
-                        "20"
+                        "45"
                       ],
                       "subInstructions": []
                     }
@@ -90371,7 +90747,7 @@
                       "parameters": [
                         "Zombie",
                         "225",
-                        "20"
+                        "45"
                       ],
                       "subInstructions": []
                     }
@@ -90417,7 +90793,7 @@
                       "parameters": [
                         "Zombie",
                         "360",
-                        "20"
+                        "45"
                       ],
                       "subInstructions": []
                     }
@@ -90463,7 +90839,7 @@
                       "parameters": [
                         "Zombie",
                         "0",
-                        "20"
+                        "45"
                       ],
                       "subInstructions": []
                     }
@@ -90509,7 +90885,7 @@
                       "parameters": [
                         "Zombie",
                         "90",
-                        "20"
+                        "45"
                       ],
                       "subInstructions": []
                     }
@@ -90628,7 +91004,7 @@
                   "parameters": [
                     "Zombie",
                     ">=",
-                    "13"
+                    "10"
                   ],
                   "subInstructions": []
                 },
@@ -90655,6 +91031,18 @@
                   "parameters": [
                     "Zombie",
                     "BeignHitted",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeAnimation"
+                  },
+                  "parameters": [
+                    "Zombie",
                     "=",
                     "0"
                   ],
