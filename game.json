@@ -22594,21 +22594,6 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "Zombie",
-          "width": 0,
-          "x": 516,
-          "y": 24,
-          "zOrder": 6,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
           "name": "DebugText4",
           "width": 0,
           "x": 35,
@@ -89065,6 +89050,20 @@
                 "0"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Zombie",
+                "Cowboy.X()",
+                "Cowboy.Y()",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -89962,7 +89961,7 @@
         },
         {
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -90458,7 +90457,7 @@
             },
             {
               "disabled": false,
-              "folded": false,
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -90924,7 +90923,7 @@
         },
         {
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
