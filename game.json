@@ -28487,6 +28487,14 @@
         "name": "Zombie-1_stand_and_throw_270_00038.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiles/farm/woodWall_S.png",
+        "kind": "image",
+        "name": "woodWall_S.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -28543,84 +28551,13 @@
         {
           "name": "CollisionY",
           "value": "0"
+        },
+        {
+          "name": "ZombiesKilled",
+          "value": "0"
         }
       ],
       "instances": [
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "DebugText",
-          "width": 0,
-          "x": 12,
-          "y": 14,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "DebugText2",
-          "width": 0,
-          "x": 30,
-          "y": 57,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "DebugText3",
-          "width": 0,
-          "x": 682,
-          "y": 40,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "DebugText4",
-          "width": 0,
-          "x": 35,
-          "y": 97,
-          "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "DebugText5",
-          "width": 0,
-          "x": 35,
-          "y": 141,
-          "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
         {
           "angle": 0,
           "customSize": false,
@@ -28632,21 +28569,6 @@
           "x": 293,
           "y": 184,
           "zOrder": 10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "DebugText2",
-          "width": 0,
-          "x": 4077.53,
-          "y": 3798.66,
-          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -28677,21 +28599,6 @@
           "x": 845,
           "y": 496,
           "zOrder": 1000,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "ZombieAxe",
-          "width": 0,
-          "x": 584,
-          "y": 469,
-          "zOrder": 1001,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -28842,6 +28749,261 @@
           "x": 1303,
           "y": -578,
           "zOrder": 1011,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallS",
+          "width": 0,
+          "x": -1162,
+          "y": -41,
+          "zOrder": 1012,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallS",
+          "width": 0,
+          "x": -1028,
+          "y": 33,
+          "zOrder": 1013,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallS",
+          "width": 0,
+          "x": -898,
+          "y": 109,
+          "zOrder": 1014,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallS",
+          "width": 0,
+          "x": -362,
+          "y": 427,
+          "zOrder": 1015,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallS",
+          "width": 0,
+          "x": -639,
+          "y": 260,
+          "zOrder": 1016,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallS",
+          "width": 0,
+          "x": -227,
+          "y": 504,
+          "zOrder": 1017,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallS",
+          "width": 0,
+          "x": -502,
+          "y": 338,
+          "zOrder": 1018,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallS",
+          "width": 0,
+          "x": -774,
+          "y": 183,
+          "zOrder": 1019,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallS",
+          "width": 0,
+          "x": -87,
+          "y": 587,
+          "zOrder": 1020,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallS",
+          "width": 0,
+          "x": 188,
+          "y": 753,
+          "zOrder": 1021,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallS",
+          "width": 0,
+          "x": 307,
+          "y": 826,
+          "zOrder": 1022,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallS",
+          "width": 0,
+          "x": 48,
+          "y": 670,
+          "zOrder": 1023,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallS",
+          "width": 0,
+          "x": 441,
+          "y": 898,
+          "zOrder": 1024,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallS",
+          "width": 0,
+          "x": 586,
+          "y": 981,
+          "zOrder": 1000,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Ui",
+          "locked": false,
+          "name": "CowboyLife",
+          "width": 0,
+          "x": 600,
+          "y": 15,
+          "zOrder": 1025,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Background",
+          "width": 0,
+          "x": 634.434,
+          "y": 57.0547,
+          "zOrder": 1027,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Ui",
+          "locked": false,
+          "name": "ZombiesKilled",
+          "width": 0,
+          "x": 15,
+          "y": 15,
+          "zOrder": 1028,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -93031,15 +93193,15 @@
         {
           "bold": false,
           "italic": false,
-          "name": "DebugText2",
+          "name": "CowboyLife",
           "smoothed": true,
           "type": "TextObject::Text",
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "Debug",
+          "string": "Cowboy life",
           "font": "",
-          "characterSize": 20,
+          "characterSize": 25,
           "color": {
             "b": 255,
             "g": 255,
@@ -93049,69 +93211,15 @@
         {
           "bold": false,
           "italic": false,
-          "name": "DebugText3",
+          "name": "ZombiesKilled",
           "smoothed": true,
           "type": "TextObject::Text",
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "Debug",
+          "string": "ZombiesKilled",
           "font": "",
-          "characterSize": 20,
-          "color": {
-            "b": 255,
-            "g": 255,
-            "r": 255
-          }
-        },
-        {
-          "bold": false,
-          "italic": false,
-          "name": "DebugText4",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "behaviors": [],
-          "string": "Debug",
-          "font": "",
-          "characterSize": 20,
-          "color": {
-            "b": 255,
-            "g": 255,
-            "r": 255
-          }
-        },
-        {
-          "bold": false,
-          "italic": false,
-          "name": "DebugText5",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "behaviors": [],
-          "string": "Debug",
-          "font": "",
-          "characterSize": 20,
-          "color": {
-            "b": 255,
-            "g": 255,
-            "r": 255
-          }
-        },
-        {
-          "bold": false,
-          "italic": false,
-          "name": "DebugText",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "behaviors": [],
-          "string": "Debug",
-          "font": "",
-          "characterSize": 20,
+          "characterSize": 25,
           "color": {
             "b": 255,
             "g": 255,
@@ -93148,7 +93256,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5345,
+                            "y": 2234
+                          },
+                          {
+                            "x": 7500,
+                            "y": 3500
+                          },
+                          {
+                            "x": 7400,
+                            "y": 3500
+                          },
+                          {
+                            "x": 5300,
+                            "y": 2234
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -93219,6 +93346,63 @@
               ]
             }
           ]
+        },
+        {
+          "name": "WallS",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "woodWall_S.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 390
+                          },
+                          {
+                            "x": 147,
+                            "y": 480
+                          },
+                          {
+                            "x": 147,
+                            "y": 512
+                          },
+                          {
+                            "x": 0,
+                            "y": 420
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -93255,7 +93439,7 @@
                     "value": "TextObject::String"
                   },
                   "parameters": [
-                    "DebugText",
+                    "CowboyLife",
                     "=",
                     "\"Cowboy Pos: \" + ToString(Cowboy.X()) + \" - \" +ToString(Cowboy.Y())"
                   ],
@@ -93270,18 +93454,6 @@
                     "FrameCount",
                     "+",
                     "1"
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "TextObject::String"
-                  },
-                  "parameters": [
-                    "DebugText3",
-                    "=",
-                    "ToString(ZombieAxe.Variable(Lives))"
                   ],
                   "subInstructions": []
                 },
@@ -93303,21 +93475,9 @@
                     "value": "TextObject::String"
                   },
                   "parameters": [
-                    "DebugText4",
+                    "CowboyLife",
                     "=",
-                    "\"Cowboy Lives :\" + ToString(Cowboy.Variable(Lives))"
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "TextObject::String"
-                  },
-                  "parameters": [
-                    "DebugText5",
-                    "=",
-                    "\"Spwan time:\" + ToString(500 - TimeFromStart())"
+                    "\"Health: \" + ToString(Cowboy.Variable(Lives)*10) + \"%\""
                   ],
                   "subInstructions": []
                 },
@@ -93366,6 +93526,41 @@
                     "Barrel",
                     "=",
                     "1290 + Barrel.Y()"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SeparateFromObjects"
+                  },
+                  "parameters": [
+                    "Cowboy",
+                    "WallS"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "WallS",
+                    "=",
+                    "1290 + Barrel.Y()"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "ZombiesKilled",
+                    "=",
+                    "\"Zombies Killed: \" + VariableString(ZombiesKilled)"
                   ],
                   "subInstructions": []
                 }
@@ -95900,7 +96095,7 @@
             },
             {
               "disabled": false,
-              "folded": true,
+              "folded": false,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -95987,6 +96182,18 @@
                         "zombie_death.wav",
                         "no",
                         "50",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "ZombiesKilled",
+                        "+",
                         "1"
                       ],
                       "subInstructions": []
@@ -96263,6 +96470,18 @@
                 "24"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "CowboyLife",
+                "=",
+                "\"Health: 0%\""
+              ],
+              "subInstructions": []
             }
           ],
           "events": [
@@ -96316,6 +96535,12 @@
               "width": 0
             }
           ],
+          "effects": []
+        },
+        {
+          "name": "Ui",
+          "visibility": true,
+          "cameras": [],
           "effects": []
         }
       ],
