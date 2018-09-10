@@ -28327,6 +28327,166 @@
         "name": "Die_R-32-0.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_stand_and_throw/Zombie-1_stand_and_throw_270/Zombie-1_stand_and_throw_270_00000.png",
+        "kind": "image",
+        "name": "Zombie-1_stand_and_throw_270_00000.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_stand_and_throw/Zombie-1_stand_and_throw_270/Zombie-1_stand_and_throw_270_00002.png",
+        "kind": "image",
+        "name": "Zombie-1_stand_and_throw_270_00002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_stand_and_throw/Zombie-1_stand_and_throw_270/Zombie-1_stand_and_throw_270_00004.png",
+        "kind": "image",
+        "name": "Zombie-1_stand_and_throw_270_00004.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_stand_and_throw/Zombie-1_stand_and_throw_270/Zombie-1_stand_and_throw_270_00006.png",
+        "kind": "image",
+        "name": "Zombie-1_stand_and_throw_270_00006.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_stand_and_throw/Zombie-1_stand_and_throw_270/Zombie-1_stand_and_throw_270_00008.png",
+        "kind": "image",
+        "name": "Zombie-1_stand_and_throw_270_00008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_stand_and_throw/Zombie-1_stand_and_throw_270/Zombie-1_stand_and_throw_270_00010.png",
+        "kind": "image",
+        "name": "Zombie-1_stand_and_throw_270_00010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_stand_and_throw/Zombie-1_stand_and_throw_270/Zombie-1_stand_and_throw_270_00012.png",
+        "kind": "image",
+        "name": "Zombie-1_stand_and_throw_270_00012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_stand_and_throw/Zombie-1_stand_and_throw_270/Zombie-1_stand_and_throw_270_00014.png",
+        "kind": "image",
+        "name": "Zombie-1_stand_and_throw_270_00014.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_stand_and_throw/Zombie-1_stand_and_throw_270/Zombie-1_stand_and_throw_270_00016.png",
+        "kind": "image",
+        "name": "Zombie-1_stand_and_throw_270_00016.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_stand_and_throw/Zombie-1_stand_and_throw_270/Zombie-1_stand_and_throw_270_00018.png",
+        "kind": "image",
+        "name": "Zombie-1_stand_and_throw_270_00018.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_stand_and_throw/Zombie-1_stand_and_throw_270/Zombie-1_stand_and_throw_270_00020.png",
+        "kind": "image",
+        "name": "Zombie-1_stand_and_throw_270_00020.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_stand_and_throw/Zombie-1_stand_and_throw_270/Zombie-1_stand_and_throw_270_00022.png",
+        "kind": "image",
+        "name": "Zombie-1_stand_and_throw_270_00022.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_stand_and_throw/Zombie-1_stand_and_throw_270/Zombie-1_stand_and_throw_270_00024.png",
+        "kind": "image",
+        "name": "Zombie-1_stand_and_throw_270_00024.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_stand_and_throw/Zombie-1_stand_and_throw_270/Zombie-1_stand_and_throw_270_00026.png",
+        "kind": "image",
+        "name": "Zombie-1_stand_and_throw_270_00026.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_stand_and_throw/Zombie-1_stand_and_throw_270/Zombie-1_stand_and_throw_270_00028.png",
+        "kind": "image",
+        "name": "Zombie-1_stand_and_throw_270_00028.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_stand_and_throw/Zombie-1_stand_and_throw_270/Zombie-1_stand_and_throw_270_00030.png",
+        "kind": "image",
+        "name": "Zombie-1_stand_and_throw_270_00030.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_stand_and_throw/Zombie-1_stand_and_throw_270/Zombie-1_stand_and_throw_270_00032.png",
+        "kind": "image",
+        "name": "Zombie-1_stand_and_throw_270_00032.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_stand_and_throw/Zombie-1_stand_and_throw_270/Zombie-1_stand_and_throw_270_00034.png",
+        "kind": "image",
+        "name": "Zombie-1_stand_and_throw_270_00034.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_stand_and_throw/Zombie-1_stand_and_throw_270/Zombie-1_stand_and_throw_270_00036.png",
+        "kind": "image",
+        "name": "Zombie-1_stand_and_throw_270_00036.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/characters/Zombie_Axe/Frames/Zombie-1_stand_and_throw/Zombie-1_stand_and_throw_270/Zombie-1_stand_and_throw_270_00038.png",
+        "kind": "image",
+        "name": "Zombie-1_stand_and_throw_270_00038.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -92513,6 +92673,358 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "Stand_D",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.05,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_and_throw_270_00000.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_and_throw_270_00002.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_and_throw_270_00004.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_and_throw_270_00006.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_and_throw_270_00008.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_and_throw_270_00010.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_and_throw_270_00012.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_and_throw_270_00014.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_and_throw_270_00016.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_and_throw_270_00018.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_and_throw_270_00020.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_and_throw_270_00022.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_and_throw_270_00024.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_and_throw_270_00026.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_and_throw_270_00028.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_and_throw_270_00030.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_and_throw_270_00032.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_and_throw_270_00034.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_and_throw_270_00036.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_and_throw_270_00038.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -92712,7 +93224,7 @@
       "events": [
         {
           "disabled": false,
-          "folded": true,
+          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -92848,17 +93360,6 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "SeparateFromObjects"
-                  },
-                  "parameters": [
-                    "Cowboy",
-                    "ZombieAxe"
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
                     "value": "ChangePlan"
                   },
                   "parameters": [
@@ -92910,6 +93411,17 @@
                   },
                   "parameters": [
                     "ZombieAxe",
+                    "ZombieAxe"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SeparateFromObjects"
+                  },
+                  "parameters": [
+                    "Cowboy",
                     "ZombieAxe"
                   ],
                   "subInstructions": []
@@ -94274,7 +94786,7 @@
             },
             {
               "disabled": false,
-              "folded": true,
+              "folded": false,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -94308,7 +94820,7 @@
               "events": [
                 {
                   "disabled": false,
-                  "folded": false,
+                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -94783,7 +95295,7 @@
                 },
                 {
                   "disabled": false,
-                  "folded": true,
+                  "folded": false,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -94813,22 +95325,80 @@
                       "subInstructions": []
                     }
                   ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "AddForceVers"
-                      },
-                      "parameters": [
-                        "ZombieAxe",
-                        "Cowboy",
-                        "50",
-                        ""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
+                  "actions": [],
                   "events": [
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarObjet"
+                          },
+                          "parameters": [
+                            "ZombieAxe",
+                            "Attacking",
+                            "=",
+                            "0"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "AddForceVers"
+                          },
+                          "parameters": [
+                            "ZombieAxe",
+                            "Cowboy",
+                            "50",
+                            ""
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": []
+                    },
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarObjet"
+                          },
+                          "parameters": [
+                            "ZombieAxe",
+                            "Attacking",
+                            "=",
+                            "1"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "AddForceVers"
+                          },
+                          "parameters": [
+                            "ZombieAxe",
+                            "Cowboy",
+                            "1",
+                            ""
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": []
+                    },
                     {
                       "disabled": false,
                       "folded": false,
@@ -95647,32 +96217,87 @@
                 "0"
               ],
               "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "AnimationEnded"
-              },
-              "parameters": [
-                "Cowboy"
-              ],
-              "subInstructions": []
             }
           ],
           "actions": [
             {
               "type": {
                 "inverted": false,
-                "value": "PushScene"
+                "value": "Arreter"
               },
               "parameters": [
-                "",
-                "CurrentSceneName()"
+                "Cowboy"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Arreter"
+              },
+              "parameters": [
+                "ZombieAxe"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+              },
+              "parameters": [
+                "Cowboy",
+                "TopDownMovement",
+                "yes"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "ZombieAxe",
+                "=",
+                "24"
               ],
               "subInstructions": []
             }
           ],
-          "events": []
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "AnimationEnded"
+                  },
+                  "parameters": [
+                    "Cowboy"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "CurrentSceneName()"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
         }
       ],
       "layers": [
