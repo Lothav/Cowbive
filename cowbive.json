@@ -28527,6 +28527,14 @@
         "name": "bookStand_N.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiles/library/candleStand_N.png",
+        "kind": "image",
+        "name": "candleStand_N.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -29479,6 +29487,81 @@
           "x": -665,
           "y": -22,
           "zOrder": 1030,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "CandleN",
+          "width": 0,
+          "x": 63,
+          "y": 51,
+          "zOrder": 1031,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "CandleN",
+          "width": 0,
+          "x": 181,
+          "y": -580,
+          "zOrder": 1032,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "CandleN",
+          "width": 0,
+          "x": 535,
+          "y": 651,
+          "zOrder": 1033,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "CandleN",
+          "width": 0,
+          "x": 774,
+          "y": -1,
+          "zOrder": 1034,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "CandleN",
+          "width": 0,
+          "x": 739,
+          "y": -844,
+          "zOrder": 1035,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -93935,6 +94018,63 @@
               ]
             }
           ]
+        },
+        {
+          "name": "CandleN",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "candleStand_N.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 112,
+                            "y": 405
+                          },
+                          {
+                            "x": 144,
+                            "y": 405
+                          },
+                          {
+                            "x": 144,
+                            "y": 425
+                          },
+                          {
+                            "x": 112,
+                            "y": 425
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -94127,6 +94267,40 @@
                     "BooksN",
                     "=",
                     "1280 + BooksN.Y()"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SeparateFromObjects"
+                  },
+                  "parameters": [
+                    "ZombieAxe",
+                    "CandleN"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SeparateFromObjects"
+                  },
+                  "parameters": [
+                    "Cowboy",
+                    "CandleN"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "CandleN",
+                    "=",
+                    "1280 + CandleN.Y()"
                   ],
                   "subInstructions": []
                 }
