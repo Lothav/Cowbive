@@ -28535,6 +28535,14 @@
         "name": "candleStand_N.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiles/farm/woodWallDiagional_W.png",
+        "kind": "image",
+        "name": "woodWallDiagional_W.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -29562,6 +29570,216 @@
           "x": 739,
           "y": -844,
           "zOrder": 1035,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallW",
+          "width": 0,
+          "x": -1220,
+          "y": -105,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallW",
+          "width": 0,
+          "x": -1084,
+          "y": -187,
+          "zOrder": 1036,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallW",
+          "width": 0,
+          "x": -949,
+          "y": -261,
+          "zOrder": 1037,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallW",
+          "width": 0,
+          "x": -815,
+          "y": -339,
+          "zOrder": 1038,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallS",
+          "width": 0,
+          "x": -1288,
+          "y": -120,
+          "zOrder": 1039,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallW",
+          "width": 0,
+          "x": -681,
+          "y": -420,
+          "zOrder": 1040,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallW",
+          "width": 0,
+          "x": -552,
+          "y": -493,
+          "zOrder": 1041,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallW",
+          "width": 0,
+          "x": -418,
+          "y": -566,
+          "zOrder": 1042,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallW",
+          "width": 0,
+          "x": -287,
+          "y": -642,
+          "zOrder": 1043,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallW",
+          "width": 0,
+          "x": -156,
+          "y": -721,
+          "zOrder": 1044,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallW",
+          "width": 0,
+          "x": -20,
+          "y": -798,
+          "zOrder": 1045,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallW",
+          "width": 0,
+          "x": 114,
+          "y": -870,
+          "zOrder": 1046,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallW",
+          "width": 0,
+          "x": 251,
+          "y": -952,
+          "zOrder": 1047,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallW",
+          "width": 0,
+          "x": 385,
+          "y": -1030,
+          "zOrder": 1048,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -94075,6 +94293,63 @@
               ]
             }
           ]
+        },
+        {
+          "name": "WallW",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "woodWallDiagional_W.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 14,
+                            "y": 427
+                          },
+                          {
+                            "x": 0,
+                            "y": 419
+                          },
+                          {
+                            "x": 112,
+                            "y": 332
+                          },
+                          {
+                            "x": 140,
+                            "y": 351
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -94301,6 +94576,40 @@
                     "CandleN",
                     "=",
                     "1280 + CandleN.Y()"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SeparateFromObjects"
+                  },
+                  "parameters": [
+                    "ZombieAxe",
+                    "WallW"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SeparateFromObjects"
+                  },
+                  "parameters": [
+                    "Cowboy",
+                    "WallW"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "WallW",
+                    "=",
+                    "-1"
                   ],
                   "subInstructions": []
                 }
