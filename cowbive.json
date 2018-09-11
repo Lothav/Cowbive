@@ -12,7 +12,7 @@
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.gamename",
-    "projectFile": "/home/luiz0tavio/Cowbive/game.json",
+    "projectFile": "/home/luiz0tavio/Cowbive/cowbive.json",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
     "version": "1.0.0",
@@ -28511,6 +28511,22 @@
         "name": "cowboy_hat.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiles/library/bookcaseWideBooks_N.png",
+        "kind": "image",
+        "name": "bookcaseWideBooks_N.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiles/library/bookStand_N.png",
+        "kind": "image",
+        "name": "bookStand_N.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -28532,7 +28548,7 @@
     }
   ],
   "layouts": [
-      {
+    {
       "b": 209,
       "disableInputWhenNotFocused": true,
       "mangledName": "Menu",
@@ -29433,6 +29449,36 @@
           "x": 15,
           "y": 15,
           "zOrder": 1028,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "BooksN",
+          "width": 0,
+          "x": -48,
+          "y": -265,
+          "zOrder": 1029,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "BooksN",
+          "width": 0,
+          "x": -665,
+          "y": -22,
+          "zOrder": 1030,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -93832,12 +93878,69 @@
               ]
             }
           ]
+        },
+        {
+          "name": "BooksN",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "bookStand_N.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 115,
+                            "y": 405
+                          },
+                          {
+                            "x": 146,
+                            "y": 417
+                          },
+                          {
+                            "x": 140,
+                            "y": 431
+                          },
+                          {
+                            "x": 112,
+                            "y": 419
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
         {
           "disabled": false,
-          "folded": true,
+          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -93990,6 +94093,40 @@
                     "ZombiesKilled",
                     "=",
                     "\"Zombies Killed: \" + VariableString(ZombiesKilled)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SeparateFromObjects"
+                  },
+                  "parameters": [
+                    "ZombieAxe",
+                    "BooksN"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SeparateFromObjects"
+                  },
+                  "parameters": [
+                    "Cowboy",
+                    "BooksN"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "BooksN",
+                    "=",
+                    "1280 + BooksN.Y()"
                   ],
                   "subInstructions": []
                 }
