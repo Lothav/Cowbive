@@ -28532,6 +28532,419 @@
     }
   ],
   "layouts": [
+      {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Menu",
+      "name": "Menu",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 1
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 2746,
+          "layer": "",
+          "locked": false,
+          "name": "Cowboy",
+          "width": 2679,
+          "x": -1151,
+          "y": -600,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 5880,
+          "layer": "",
+          "locked": false,
+          "name": "Zombie",
+          "width": 5710,
+          "x": -2220,
+          "y": -2328,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 416.733,
+          "layer": "",
+          "locked": false,
+          "name": "Logo",
+          "width": 648.45,
+          "x": 90,
+          "y": -35,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "'S' to start",
+          "width": 0,
+          "x": 294,
+          "y": 388,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Start",
+          "width": 0,
+          "x": 410.394,
+          "y": 433.137,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "MoveText",
+          "width": 0,
+          "x": 119.905,
+          "y": 475.554,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "FireText",
+          "width": 0,
+          "x": 305,
+          "y": 536,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "locked": false,
+          "name": "hat",
+          "width": 45,
+          "x": 502,
+          "y": 229,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "name": "Cowboy",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "down_000.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Zombie",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombie-1_stand_270_00000.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "'S' to start",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "'S' to start",
+          "font": "",
+          "characterSize": 40,
+          "color": {
+            "b": 93,
+            "g": 197,
+            "r": 226
+          }
+        },
+        {
+          "name": "Logo",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "cowbive_logo.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "MoveText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "'Up' 'Left' 'Down' 'Right' to move",
+          "font": "",
+          "characterSize": 40,
+          "color": {
+            "b": 93,
+            "g": 197,
+            "r": 226
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "FireText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "'F' to fire",
+          "font": "",
+          "characterSize": 40,
+          "color": {
+            "b": 93,
+            "g": 197,
+            "r": 226
+          }
+        },
+        {
+          "name": "hat",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "cowboy_hat.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "s"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"Game\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ],
+      "layers": [
+        {
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
+    },
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
@@ -96596,419 +97009,6 @@
           "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
       ]
-    },
-    {
-      "b": 209,
-      "disableInputWhenNotFocused": true,
-      "mangledName": "Menu",
-      "name": "Menu",
-      "oglFOV": 90,
-      "oglZFar": 500,
-      "oglZNear": 1,
-      "r": 209,
-      "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
-      "title": "",
-      "v": 209,
-      "uiSettings": {
-        "grid": false,
-        "gridB": 255,
-        "gridG": 180,
-        "gridHeight": 32,
-        "gridOffsetX": 0,
-        "gridOffsetY": 0,
-        "gridR": 158,
-        "gridWidth": 32,
-        "snap": true,
-        "windowMask": false,
-        "zoomFactor": 1
-      },
-      "objectsGroups": [],
-      "variables": [],
-      "instances": [
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 2746,
-          "layer": "",
-          "locked": false,
-          "name": "Cowboy",
-          "width": 2679,
-          "x": -1151,
-          "y": -600,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 5880,
-          "layer": "",
-          "locked": false,
-          "name": "Zombie",
-          "width": 5710,
-          "x": -2220,
-          "y": -2328,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 416.733,
-          "layer": "",
-          "locked": false,
-          "name": "Logo",
-          "width": 648.45,
-          "x": 90,
-          "y": -35,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "'S' to start",
-          "width": 0,
-          "x": 294,
-          "y": 388,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Start",
-          "width": 0,
-          "x": 410.394,
-          "y": 433.137,
-          "zOrder": 6,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "MoveText",
-          "width": 0,
-          "x": 119.905,
-          "y": 475.554,
-          "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "FireText",
-          "width": 0,
-          "x": 305,
-          "y": 536,
-          "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 30,
-          "layer": "",
-          "locked": false,
-          "name": "hat",
-          "width": 45,
-          "x": 502,
-          "y": 229,
-          "zOrder": 10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        }
-      ],
-      "objects": [
-        {
-          "name": "Cowboy",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "down_000.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Zombie",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie-1_stand_270_00000.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "bold": false,
-          "italic": false,
-          "name": "'S' to start",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "behaviors": [],
-          "string": "'S' to start",
-          "font": "",
-          "characterSize": 40,
-          "color": {
-            "b": 93,
-            "g": 197,
-            "r": 226
-          }
-        },
-        {
-          "name": "Logo",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "cowbive_logo.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "bold": false,
-          "italic": false,
-          "name": "MoveText",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "behaviors": [],
-          "string": "'Up' 'Left' 'Down' 'Right' to move",
-          "font": "",
-          "characterSize": 40,
-          "color": {
-            "b": 93,
-            "g": 197,
-            "r": 226
-          }
-        },
-        {
-          "bold": false,
-          "italic": false,
-          "name": "FireText",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "behaviors": [],
-          "string": "'F' to fire",
-          "font": "",
-          "characterSize": 40,
-          "color": {
-            "b": 93,
-            "g": 197,
-            "r": 226
-          }
-        },
-        {
-          "name": "hat",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "cowboy_hat.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "events": [
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "s"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "PushScene"
-              },
-              "parameters": [
-                "",
-                "\"Game\""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        }
-      ],
-      "layers": [
-        {
-          "name": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ],
-      "behaviorsSharedData": []
     }
   ],
   "externalEvents": [],
