@@ -12,7 +12,7 @@
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.gamename",
-    "projectFile": "/home/luiz0tavio/Cowbive/cowbive.json",
+    "projectFile": "/home/luiz0tavio/Cowbive/src/cowbive.json",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
     "version": "1.0.0",
@@ -28626,13 +28626,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 416.733,
+          "height": 354,
           "layer": "",
           "locked": false,
           "name": "Logo",
-          "width": 648.45,
-          "x": 90,
-          "y": -35,
+          "width": 587,
+          "x": 107,
+          "y": 0,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -28646,8 +28646,8 @@
           "locked": false,
           "name": "'S' to start",
           "width": 0,
-          "x": 294,
-          "y": 388,
+          "x": 208,
+          "y": 324,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -28676,8 +28676,8 @@
           "locked": false,
           "name": "MoveText",
           "width": 0,
-          "x": 119.905,
-          "y": 475.554,
+          "x": 131,
+          "y": 432,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -28691,8 +28691,8 @@
           "locked": false,
           "name": "FireText",
           "width": 0,
-          "x": 305,
-          "y": 536,
+          "x": 132,
+          "y": 501,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -28800,7 +28800,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "'S' to start",
+          "string": "Press 'S' key to start",
           "font": "",
           "characterSize": 40,
           "color": {
@@ -28949,6 +28949,29 @@
               "parameters": [
                 "",
                 "\"Game\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CentreCamera"
+              },
+              "parameters": [
+                "",
+                "'S' to start",
+                "",
+                "",
+                ""
               ],
               "subInstructions": []
             }
@@ -29429,11 +29452,11 @@
           "customSize": false,
           "height": 0,
           "layer": "Ui",
-          "locked": false,
+          "locked": true,
           "name": "CowboyLife",
           "width": 0,
-          "x": 600,
-          "y": 15,
+          "x": 15,
+          "y": 60,
           "zOrder": 1025,
           "numberProperties": [],
           "stringProperties": [],

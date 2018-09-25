@@ -34,6 +34,17 @@ gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }
 
 
+{
+
+
+{
+gdjs.MenuCode.GD_39S_39_32to_32startObjects1.createFrom(runtimeScene.getObjects("'S' to start"));
+{gdjs.evtTools.camera.centerCamera(runtimeScene, (gdjs.MenuCode.GD_39S_39_32to_32startObjects1.length !== 0 ? gdjs.MenuCode.GD_39S_39_32to_32startObjects1[0] : null), true, "", 0);
+}}
+
+}
+
+
 }; //End of gdjs.MenuCode.eventsList0xaf9c0
 
 
